@@ -1,0 +1,1101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1631775636927,14,Issues list,200,OK,Thread Group 1-1,text,true,,910,549,1,1,http://10.240.4.179/api/issues/?ordering=-creation_date,4,0,2
+1631775636927,4,Issues list-0,301,Moved Permanently,Thread Group 1-1,text,true,,288,274,1,1,http://10.240.4.179/api/issues?ordering=-creation_date,4,0,2
+1631775636931,10,Issues list-1,200,OK,Thread Group 1-1,text,true,,622,275,1,1,http://10.240.4.179/api/issues/?ordering=-creation_date,10,0,0
+1631775636941,10,Issue jdh001,200,OK,Thread Group 1-1,text,true,,750,515,1,1,http://10.240.4.179/api/issues/jdh001/,2,0,0
+1631775636941,2,Issue jdh001-0,301,Moved Permanently,Thread Group 1-1,text,true,,271,257,1,1,http://10.240.4.179/api/issues/jdh001,2,0,0
+1631775636943,8,Issue jdh001-1,200,OK,Thread Group 1-1,text,true,,479,258,1,1,http://10.240.4.179/api/issues/jdh001/,8,0,0
+1631775636981,50,Issues list,200,OK,Thread Group 1-2,text,true,,910,549,2,2,http://10.240.4.179/api/issues/?ordering=-creation_date,39,0,2
+1631775636981,39,Issues list-0,301,Moved Permanently,Thread Group 1-2,text,true,,288,274,2,2,http://10.240.4.179/api/issues?ordering=-creation_date,39,0,2
+1631775637020,11,Issues list-1,200,OK,Thread Group 1-2,text,true,,622,275,2,2,http://10.240.4.179/api/issues/?ordering=-creation_date,11,0,0
+1631775636951,77,Articles's list jdh001,200,OK,Thread Group 1-1,text,true,,224350,264,2,2,http://10.240.4.179/api/articles/?pid=jdh001,69,0,0
+1631775637031,13,Issue jdh001,200,OK,Thread Group 1-2,text,true,,750,515,3,3,http://10.240.4.179/api/issues/jdh001/,2,0,0
+1631775637031,2,Issue jdh001-0,301,Moved Permanently,Thread Group 1-2,text,true,,271,257,3,3,http://10.240.4.179/api/issues/jdh001,2,0,0
+1631775637033,11,Issue jdh001-1,200,OK,Thread Group 1-2,text,true,,479,258,3,3,http://10.240.4.179/api/issues/jdh001/,11,0,0
+1631775637032,30,Random article,200,OK,Thread Group 1-1,text,true,,35081,531,3,3,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,2,0,0
+1631775637032,2,Random article-0,301,Moved Permanently,Thread Group 1-1,text,true,,279,265,3,3,http://10.240.4.179/api/articles/WBqfZzfi7nHK,2,0,0
+1631775637034,28,Random article-1,200,OK,Thread Group 1-1,text,true,,34802,266,3,3,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,28,0,0
+1631775637032,38,Issues list,200,OK,Thread Group 1-3,text,true,,910,549,3,3,http://10.240.4.179/api/issues/?ordering=-creation_date,3,0,1
+1631775637032,3,Issues list-0,301,Moved Permanently,Thread Group 1-3,text,true,,288,274,3,3,http://10.240.4.179/api/issues?ordering=-creation_date,3,0,1
+1631775637035,35,Issues list-1,200,OK,Thread Group 1-3,text,true,,622,275,3,3,http://10.240.4.179/api/issues/?ordering=-creation_date,35,0,0
+1631775637070,13,Issue jdh001,200,OK,Thread Group 1-3,text,true,,750,515,4,4,http://10.240.4.179/api/issues/jdh001/,3,0,0
+1631775637070,3,Issue jdh001-0,301,Moved Permanently,Thread Group 1-3,text,true,,271,257,4,4,http://10.240.4.179/api/issues/jdh001,3,0,0
+1631775637073,10,Issue jdh001-1,200,OK,Thread Group 1-3,text,true,,479,258,4,4,http://10.240.4.179/api/issues/jdh001/,10,0,0
+1631775637064,72,Raw github,200,OK,Thread Group 1-1,text,true,,6779253,347,5,5,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-WBqfZzfi7nHK/main/scripts/Digital_epigraphy_cite2c_biblio.ipynb,2,0,0
+1631775637044,115,Articles's list jdh001,200,OK,Thread Group 1-2,text,true,,224350,264,4,4,http://10.240.4.179/api/articles/?pid=jdh001,107,0,0
+1631775637079,86,Issues list,200,OK,Thread Group 1-4,text,true,,910,549,4,4,http://10.240.4.179/api/issues/?ordering=-creation_date,74,0,2
+1631775637079,74,Issues list-0,301,Moved Permanently,Thread Group 1-4,text,true,,288,274,4,4,http://10.240.4.179/api/issues?ordering=-creation_date,74,0,2
+1631775637153,12,Issues list-1,200,OK,Thread Group 1-4,text,true,,622,275,4,4,http://10.240.4.179/api/issues/?ordering=-creation_date,12,0,0
+1631775637083,79,Articles's list jdh001,200,OK,Thread Group 1-3,text,true,,224350,264,4,4,http://10.240.4.179/api/articles/?pid=jdh001,71,0,0
+1631775637130,38,Issues list,200,OK,Thread Group 1-5,text,true,,910,549,4,4,http://10.240.4.179/api/issues/?ordering=-creation_date,27,0,2
+1631775637130,27,Issues list-0,301,Moved Permanently,Thread Group 1-5,text,true,,288,274,4,4,http://10.240.4.179/api/issues?ordering=-creation_date,27,0,2
+1631775637157,11,Issues list-1,200,OK,Thread Group 1-5,text,true,,622,275,4,4,http://10.240.4.179/api/issues/?ordering=-creation_date,11,0,0
+1631775637165,13,Issue jdh001,200,OK,Thread Group 1-4,text,true,,750,515,5,5,http://10.240.4.179/api/issues/jdh001/,3,0,0
+1631775637165,3,Issue jdh001-0,301,Moved Permanently,Thread Group 1-4,text,true,,271,257,5,5,http://10.240.4.179/api/issues/jdh001,3,0,0
+1631775637168,10,Issue jdh001-1,200,OK,Thread Group 1-4,text,true,,479,258,5,5,http://10.240.4.179/api/issues/jdh001/,10,0,0
+1631775637168,17,Issue jdh001,200,OK,Thread Group 1-5,text,true,,750,515,5,5,http://10.240.4.179/api/issues/jdh001/,1,0,0
+1631775637168,1,Issue jdh001-0,301,Moved Permanently,Thread Group 1-5,text,true,,271,257,5,5,http://10.240.4.179/api/issues/jdh001,1,0,0
+1631775637169,16,Issue jdh001-1,200,OK,Thread Group 1-5,text,true,,479,258,5,5,http://10.240.4.179/api/issues/jdh001/,16,0,0
+1631775637163,35,Random article,200,OK,Thread Group 1-2,text,true,,37019,531,5,5,http://10.240.4.179/api/articles/33pRxE2dtUHP/,4,0,0
+1631775637163,4,Random article-0,301,Moved Permanently,Thread Group 1-2,text,true,,279,265,5,5,http://10.240.4.179/api/articles/33pRxE2dtUHP,4,0,0
+1631775637167,31,Random article-1,200,OK,Thread Group 1-2,text,true,,36740,266,5,5,http://10.240.4.179/api/articles/33pRxE2dtUHP/,30,0,0
+1631775637165,57,Random article,200,OK,Thread Group 1-3,text,true,,29182,531,5,5,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,6,0,0
+1631775637165,6,Random article-0,301,Moved Permanently,Thread Group 1-3,text,true,,279,265,5,5,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,6,0,0
+1631775637171,51,Random article-1,200,OK,Thread Group 1-3,text,true,,28903,266,5,5,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,50,0,0
+1631775637222,32,Raw github,200,OK,Thread Group 1-3,text,true,,1143276,337,6,6,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,1,0,0
+1631775637186,91,Articles's list jdh001,200,OK,Thread Group 1-5,text,true,,224350,264,5,5,http://10.240.4.179/api/articles/?pid=jdh001,79,0,0
+1631775637179,127,Articles's list jdh001,200,OK,Thread Group 1-4,text,true,,224350,264,6,6,http://10.240.4.179/api/articles/?pid=jdh001,117,0,0
+1631775637179,133,Issues list,200,OK,Thread Group 1-6,text,true,,910,549,6,6,http://10.240.4.179/api/issues/?ordering=-creation_date,119,0,2
+1631775637228,84,Issues list,200,OK,Thread Group 1-7,text,true,,910,549,6,6,http://10.240.4.179/api/issues/?ordering=-creation_date,70,0,2
+1631775637179,119,Issues list-0,301,Moved Permanently,Thread Group 1-6,text,true,,288,274,6,6,http://10.240.4.179/api/issues?ordering=-creation_date,119,0,2
+1631775637228,70,Issues list-0,301,Moved Permanently,Thread Group 1-7,text,true,,288,274,6,6,http://10.240.4.179/api/issues?ordering=-creation_date,70,0,2
+1631775637298,14,Issues list-1,200,OK,Thread Group 1-6,text,true,,622,275,6,6,http://10.240.4.179/api/issues/?ordering=-creation_date,14,0,0
+1631775637298,14,Issues list-1,200,OK,Thread Group 1-7,text,true,,622,275,6,6,http://10.240.4.179/api/issues/?ordering=-creation_date,14,0,0
+1631775637199,115,Raw github,200,OK,Thread Group 1-2,text,true,,10203231,314,6,6,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,1,0,0
+1631775637280,50,Random article,200,OK,Thread Group 1-5,text,true,,4331,531,6,6,http://10.240.4.179/api/articles/MyifnvNPDgUx/,19,0,0
+1631775637280,19,Random article-0,301,Moved Permanently,Thread Group 1-5,text,true,,279,265,6,6,http://10.240.4.179/api/articles/MyifnvNPDgUx,19,0,0
+1631775637299,31,Random article-1,200,OK,Thread Group 1-5,text,true,,4052,266,6,6,http://10.240.4.179/api/articles/MyifnvNPDgUx/,31,0,0
+1631775637331,5,Raw github,200,OK,Thread Group 1-5,text,true,,153631,356,6,6,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-MyifnvNPDgUx/main/taking-the-measure-of-social-democracy-anonymous.ipynb,1,0,0
+1631775637309,28,Random article,200,OK,Thread Group 1-4,text,true,,37019,531,5,5,http://10.240.4.179/api/articles/33pRxE2dtUHP/,4,0,0
+1631775637309,4,Random article-0,301,Moved Permanently,Thread Group 1-4,text,true,,279,265,5,5,http://10.240.4.179/api/articles/33pRxE2dtUHP,4,0,0
+1631775637313,24,Random article-1,200,OK,Thread Group 1-4,text,true,,36740,266,5,5,http://10.240.4.179/api/articles/33pRxE2dtUHP/,24,0,0
+1631775637281,59,Issues list,200,OK,Thread Group 1-8,text,true,,910,549,5,5,http://10.240.4.179/api/issues/?ordering=-creation_date,19,0,2
+1631775637281,19,Issues list-0,301,Moved Permanently,Thread Group 1-8,text,true,,288,274,5,5,http://10.240.4.179/api/issues?ordering=-creation_date,19,0,2
+1631775637300,40,Issues list-1,200,OK,Thread Group 1-8,text,true,,622,275,5,5,http://10.240.4.179/api/issues/?ordering=-creation_date,40,0,0
+1631775637312,35,Issue jdh001,200,OK,Thread Group 1-7,text,true,,750,515,5,5,http://10.240.4.179/api/issues/jdh001/,2,0,0
+1631775637312,2,Issue jdh001-0,301,Moved Permanently,Thread Group 1-7,text,true,,271,257,5,5,http://10.240.4.179/api/issues/jdh001,2,0,0
+1631775637314,33,Issue jdh001-1,200,OK,Thread Group 1-7,text,true,,479,258,5,5,http://10.240.4.179/api/issues/jdh001/,33,0,0
+1631775637312,42,Issue jdh001,200,OK,Thread Group 1-6,text,true,,750,515,5,5,http://10.240.4.179/api/issues/jdh001/,29,0,0
+1631775637312,29,Issue jdh001-0,301,Moved Permanently,Thread Group 1-6,text,true,,271,257,5,5,http://10.240.4.179/api/issues/jdh001,29,0,0
+1631775637341,13,Issue jdh001-1,200,OK,Thread Group 1-6,text,true,,479,258,5,5,http://10.240.4.179/api/issues/jdh001/,13,0,0
+1631775637340,22,Issue jdh001,200,OK,Thread Group 1-8,text,true,,750,515,5,5,http://10.240.4.179/api/issues/jdh001/,3,0,0
+1631775637340,3,Issue jdh001-0,301,Moved Permanently,Thread Group 1-8,text,true,,271,257,5,5,http://10.240.4.179/api/issues/jdh001,3,0,0
+1631775637343,19,Issue jdh001-1,200,OK,Thread Group 1-8,text,true,,479,258,5,5,http://10.240.4.179/api/issues/jdh001/,19,0,0
+1631775637328,41,Issues list,200,OK,Thread Group 1-9,text,true,,910,549,5,5,http://10.240.4.179/api/issues/?ordering=-creation_date,20,0,1
+1631775637328,20,Issues list-0,301,Moved Permanently,Thread Group 1-9,text,true,,288,274,5,5,http://10.240.4.179/api/issues?ordering=-creation_date,20,0,1
+1631775637348,21,Issues list-1,200,OK,Thread Group 1-9,text,true,,622,275,5,5,http://10.240.4.179/api/issues/?ordering=-creation_date,21,0,0
+1631775637338,106,Raw github,200,OK,Thread Group 1-4,text,true,,10203231,314,7,7,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,1,0,0
+1631775637347,96,Articles's list jdh001,200,OK,Thread Group 1-7,text,true,,224350,264,7,7,http://10.240.4.179/api/articles/?pid=jdh001,86,0,0
+1631775637354,94,Articles's list jdh001,200,OK,Thread Group 1-6,text,true,,224350,264,6,6,http://10.240.4.179/api/articles/?pid=jdh001,87,0,0
+1631775637369,82,Issue jdh001,200,OK,Thread Group 1-9,text,true,,750,515,6,6,http://10.240.4.179/api/issues/jdh001/,68,0,0
+1631775637369,68,Issue jdh001-0,301,Moved Permanently,Thread Group 1-9,text,true,,271,257,6,6,http://10.240.4.179/api/issues/jdh001,68,0,0
+1631775637437,14,Issue jdh001-1,200,OK,Thread Group 1-9,text,true,,479,258,6,6,http://10.240.4.179/api/issues/jdh001/,14,0,0
+1631775637377,84,Issues list,200,OK,Thread Group 1-10,text,true,,910,549,6,6,http://10.240.4.179/api/issues/?ordering=-creation_date,60,0,2
+1631775637377,60,Issues list-0,301,Moved Permanently,Thread Group 1-10,text,true,,288,274,6,6,http://10.240.4.179/api/issues?ordering=-creation_date,60,0,2
+1631775637437,24,Issues list-1,200,OK,Thread Group 1-10,text,true,,622,275,6,6,http://10.240.4.179/api/issues/?ordering=-creation_date,24,0,0
+1631775637362,153,Articles's list jdh001,200,OK,Thread Group 1-8,text,true,,224350,264,7,7,http://10.240.4.179/api/articles/?pid=jdh001,147,0,0
+1631775637447,88,Random article,200,OK,Thread Group 1-7,text,true,,41871,531,8,8,http://10.240.4.179/api/articles/JJszM3GwAYDs/,65,0,0
+1631775637447,65,Random article-0,301,Moved Permanently,Thread Group 1-7,text,true,,279,265,8,8,http://10.240.4.179/api/articles/JJszM3GwAYDs,65,0,0
+1631775637512,23,Random article-1,200,OK,Thread Group 1-7,text,true,,41592,266,8,8,http://10.240.4.179/api/articles/JJszM3GwAYDs/,23,0,0
+1631775637451,90,Articles's list jdh001,200,OK,Thread Group 1-9,text,true,,224350,264,8,8,http://10.240.4.179/api/articles/?pid=jdh001,83,0,0
+1631775637427,120,Issues list,200,OK,Thread Group 1-11,text,true,,910,549,8,8,http://10.240.4.179/api/issues/?ordering=-creation_date,84,0,2
+1631775637427,84,Issues list-0,301,Moved Permanently,Thread Group 1-11,text,true,,288,274,8,8,http://10.240.4.179/api/issues?ordering=-creation_date,84,0,2
+1631775637511,36,Issues list-1,200,OK,Thread Group 1-11,text,true,,622,275,8,8,http://10.240.4.179/api/issues/?ordering=-creation_date,36,0,0
+1631775637450,108,Random article,200,OK,Thread Group 1-6,text,true,,4331,531,8,8,http://10.240.4.179/api/articles/MyifnvNPDgUx/,62,0,0
+1631775637450,62,Random article-0,301,Moved Permanently,Thread Group 1-6,text,true,,279,265,8,8,http://10.240.4.179/api/articles/MyifnvNPDgUx,62,0,0
+1631775637512,46,Random article-1,200,OK,Thread Group 1-6,text,true,,4052,266,8,8,http://10.240.4.179/api/articles/MyifnvNPDgUx/,46,0,0
+1631775637547,13,Issue jdh001,200,OK,Thread Group 1-11,text,true,,750,515,8,8,http://10.240.4.179/api/issues/jdh001/,2,0,0
+1631775637547,2,Issue jdh001-0,301,Moved Permanently,Thread Group 1-11,text,true,,271,257,8,8,http://10.240.4.179/api/issues/jdh001,2,0,0
+1631775637549,11,Issue jdh001-1,200,OK,Thread Group 1-11,text,true,,479,258,8,8,http://10.240.4.179/api/issues/jdh001/,11,0,0
+1631775637558,6,Raw github,200,OK,Thread Group 1-6,text,true,,153631,356,8,8,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-MyifnvNPDgUx/main/taking-the-measure-of-social-democracy-anonymous.ipynb,2,0,0
+1631775637461,106,Issue jdh001,200,OK,Thread Group 1-10,text,true,,750,515,7,7,http://10.240.4.179/api/issues/jdh001/,74,0,0
+1631775637461,74,Issue jdh001-0,301,Moved Permanently,Thread Group 1-10,text,true,,271,257,7,7,http://10.240.4.179/api/issues/jdh001,74,0,0
+1631775637535,32,Issue jdh001-1,200,OK,Thread Group 1-10,text,true,,479,258,7,7,http://10.240.4.179/api/issues/jdh001/,32,0,0
+1631775637536,32,Raw github,200,OK,Thread Group 1-7,text,true,,2038004,344,7,7,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,2,0,0
+1631775637481,95,Issues list,200,OK,Thread Group 1-12,text,true,,910,549,6,6,http://10.240.4.179/api/issues/?ordering=-creation_date,55,0,1
+1631775637481,55,Issues list-0,301,Moved Permanently,Thread Group 1-12,text,true,,288,274,6,6,http://10.240.4.179/api/issues?ordering=-creation_date,55,0,1
+1631775637536,40,Issues list-1,200,OK,Thread Group 1-12,text,true,,622,275,6,6,http://10.240.4.179/api/issues/?ordering=-creation_date,40,0,0
+1631775637517,79,Random article,200,OK,Thread Group 1-8,text,true,,20524,531,7,7,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,41,0,0
+1631775637517,41,Random article-0,301,Moved Permanently,Thread Group 1-8,text,true,,279,265,7,7,http://10.240.4.179/api/articles/8pGzPyTDKBjR,41,0,0
+1631775637558,38,Random article-1,200,OK,Thread Group 1-8,text,true,,20245,266,7,7,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,38,0,0
+1631775637527,76,Issues list,200,OK,Thread Group 1-13,text,true,,910,549,7,7,http://10.240.4.179/api/issues/?ordering=-creation_date,31,0,2
+1631775637527,31,Issues list-0,301,Moved Permanently,Thread Group 1-13,text,true,,288,274,7,7,http://10.240.4.179/api/issues?ordering=-creation_date,31,0,2
+1631775637558,45,Issues list-1,200,OK,Thread Group 1-13,text,true,,622,275,7,7,http://10.240.4.179/api/issues/?ordering=-creation_date,45,0,0
+1631775637543,77,Random article,200,OK,Thread Group 1-9,text,true,,20524,531,7,7,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,33,0,0
+1631775637543,33,Random article-0,301,Moved Permanently,Thread Group 1-9,text,true,,279,265,7,7,http://10.240.4.179/api/articles/8pGzPyTDKBjR,33,0,0
+1631775637576,44,Random article-1,200,OK,Thread Group 1-9,text,true,,20245,266,7,7,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,44,0,0
+1631775637577,56,Issues list,200,OK,Thread Group 1-14,text,true,,910,549,8,8,http://10.240.4.179/api/issues/?ordering=-creation_date,43,0,1
+1631775637577,43,Issues list-0,301,Moved Permanently,Thread Group 1-14,text,true,,288,274,8,8,http://10.240.4.179/api/issues?ordering=-creation_date,43,0,1
+1631775637620,13,Issues list-1,200,OK,Thread Group 1-14,text,true,,622,275,8,8,http://10.240.4.179/api/issues/?ordering=-creation_date,13,0,0
+1631775637603,40,Issue jdh001,200,OK,Thread Group 1-13,text,true,,750,515,8,8,http://10.240.4.179/api/issues/jdh001/,18,0,0
+1631775637603,18,Issue jdh001-0,301,Moved Permanently,Thread Group 1-13,text,true,,271,257,8,8,http://10.240.4.179/api/issues/jdh001,18,0,0
+1631775637621,22,Issue jdh001-1,200,OK,Thread Group 1-13,text,true,,479,258,8,8,http://10.240.4.179/api/issues/jdh001/,21,0,0
+1631775637633,23,Issue jdh001,200,OK,Thread Group 1-14,text,true,,750,515,8,8,http://10.240.4.179/api/issues/jdh001/,9,0,0
+1631775637633,9,Issue jdh001-0,301,Moved Permanently,Thread Group 1-14,text,true,,271,257,8,8,http://10.240.4.179/api/issues/jdh001,9,0,0
+1631775637643,13,Issue jdh001-1,200,OK,Thread Group 1-14,text,true,,479,258,8,8,http://10.240.4.179/api/issues/jdh001/,13,0,0
+1631775637560,94,Articles's list jdh001,200,OK,Thread Group 1-11,text,true,,224350,264,8,8,http://10.240.4.179/api/articles/?pid=jdh001,80,0,0
+1631775637567,176,Articles's list jdh001,200,OK,Thread Group 1-10,text,true,,224350,264,10,10,http://10.240.4.179/api/articles/?pid=jdh001,162,0,0
+1631775637676,79,Issues list,200,OK,Thread Group 1-16,text,true,,910,549,10,10,http://10.240.4.179/api/issues/?ordering=-creation_date,65,0,2
+1631775637676,65,Issues list-0,301,Moved Permanently,Thread Group 1-16,text,true,,288,274,10,10,http://10.240.4.179/api/issues?ordering=-creation_date,65,0,2
+1631775637741,14,Issues list-1,200,OK,Thread Group 1-16,text,true,,622,275,10,10,http://10.240.4.179/api/issues/?ordering=-creation_date,14,0,0
+1631775637643,112,Articles's list jdh001,200,OK,Thread Group 1-13,text,true,,224350,264,10,10,http://10.240.4.179/api/articles/?pid=jdh001,98,0,0
+1631775637755,15,Issue jdh001,200,OK,Thread Group 1-16,text,true,,750,515,10,10,http://10.240.4.179/api/issues/jdh001/,3,0,0
+1631775637755,3,Issue jdh001-0,301,Moved Permanently,Thread Group 1-16,text,true,,271,257,10,10,http://10.240.4.179/api/issues/jdh001,3,0,0
+1631775637758,12,Issue jdh001-1,200,OK,Thread Group 1-16,text,true,,479,258,10,10,http://10.240.4.179/api/issues/jdh001/,12,0,0
+1631775637630,205,Issues list,200,OK,Thread Group 1-15,text,true,,910,549,12,12,http://10.240.4.179/api/issues/?ordering=-creation_date,104,0,2
+1631775637630,104,Issues list-0,301,Moved Permanently,Thread Group 1-15,text,true,,288,274,12,12,http://10.240.4.179/api/issues?ordering=-creation_date,104,0,2
+1631775637734,101,Issues list-1,200,OK,Thread Group 1-15,text,true,,622,275,12,12,http://10.240.4.179/api/issues/?ordering=-creation_date,101,0,0
+1631775637656,179,Articles's list jdh001,200,OK,Thread Group 1-14,text,true,,224350,264,12,12,http://10.240.4.179/api/articles/?pid=jdh001,163,0,0
+1631775637576,268,Issue jdh001,200,OK,Thread Group 1-12,text,true,,750,515,12,12,http://10.240.4.179/api/issues/jdh001/,158,0,0
+1631775637576,158,Issue jdh001-0,301,Moved Permanently,Thread Group 1-12,text,true,,271,257,12,12,http://10.240.4.179/api/issues/jdh001,158,0,0
+1631775637734,110,Issue jdh001-1,200,OK,Thread Group 1-12,text,true,,479,258,12,12,http://10.240.4.179/api/issues/jdh001/,110,0,0
+1631775637620,239,Raw github,200,OK,Thread Group 1-9,text,true,,14088282,319,12,12,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,1,0,0
+1631775637596,264,Raw github,200,OK,Thread Group 1-8,text,true,,14088282,319,11,11,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,2,0,0
+1631775637770,90,Articles's list jdh001,200,OK,Thread Group 1-16,text,true,,224350,264,11,11,http://10.240.4.179/api/articles/?pid=jdh001,81,0,0
+1631775637758,111,Random article,200,OK,Thread Group 1-13,text,true,,29182,531,10,10,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,4,0,0
+1631775637758,4,Random article-0,301,Moved Permanently,Thread Group 1-13,text,true,,279,265,10,10,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,4,0,0
+1631775637762,107,Random article-1,200,OK,Thread Group 1-13,text,true,,28903,266,10,10,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,107,0,0
+1631775637657,215,Random article,200,OK,Thread Group 1-11,text,true,,30292,531,10,10,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,165,0,0
+1631775637657,165,Random article-0,301,Moved Permanently,Thread Group 1-11,text,true,,279,265,10,10,http://10.240.4.179/api/articles/4yxHGiqXYRbX,165,0,0
+1631775637822,50,Random article-1,200,OK,Thread Group 1-11,text,true,,30013,266,10,10,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,49,0,0
+1631775637729,150,Issues list,200,OK,Thread Group 1-17,text,true,,910,549,11,11,http://10.240.4.179/api/issues/?ordering=-creation_date,94,0,2
+1631775637729,94,Issues list-0,301,Moved Permanently,Thread Group 1-17,text,true,,288,274,11,11,http://10.240.4.179/api/issues?ordering=-creation_date,94,0,2
+1631775637823,56,Issues list-1,200,OK,Thread Group 1-17,text,true,,622,275,11,11,http://10.240.4.179/api/issues/?ordering=-creation_date,56,0,0
+1631775637777,115,Issues list,200,OK,Thread Group 1-18,text,true,,910,549,11,11,http://10.240.4.179/api/issues/?ordering=-creation_date,74,0,2
+1631775637777,74,Issues list-0,301,Moved Permanently,Thread Group 1-18,text,true,,288,274,11,11,http://10.240.4.179/api/issues?ordering=-creation_date,74,0,2
+1631775637851,41,Issues list-1,200,OK,Thread Group 1-18,text,true,,622,275,11,11,http://10.240.4.179/api/issues/?ordering=-creation_date,41,0,0
+1631775637870,23,Raw github,200,OK,Thread Group 1-13,text,true,,1143276,337,11,11,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,1,0,0
+1631775637835,67,Issue jdh001,200,OK,Thread Group 1-15,text,true,,750,515,10,10,http://10.240.4.179/api/issues/jdh001/,48,0,0
+1631775637835,48,Issue jdh001-0,301,Moved Permanently,Thread Group 1-15,text,true,,271,257,10,10,http://10.240.4.179/api/issues/jdh001,48,0,0
+1631775637883,19,Issue jdh001-1,200,OK,Thread Group 1-15,text,true,,479,258,10,10,http://10.240.4.179/api/issues/jdh001/,19,0,0
+1631775637880,30,Issue jdh001,200,OK,Thread Group 1-17,text,true,,750,515,10,10,http://10.240.4.179/api/issues/jdh001/,12,0,0
+1631775637880,12,Issue jdh001-0,301,Moved Permanently,Thread Group 1-17,text,true,,271,257,10,10,http://10.240.4.179/api/issues/jdh001,12,0,0
+1631775637893,17,Issue jdh001-1,200,OK,Thread Group 1-17,text,true,,479,258,10,10,http://10.240.4.179/api/issues/jdh001/,17,0,0
+1631775637877,43,Issues list,200,OK,Thread Group 1-20,text,true,,910,549,10,10,http://10.240.4.179/api/issues/?ordering=-creation_date,15,0,2
+1631775637877,15,Issues list-0,301,Moved Permanently,Thread Group 1-20,text,true,,288,274,10,10,http://10.240.4.179/api/issues?ordering=-creation_date,15,0,2
+1631775637893,27,Issues list-1,200,OK,Thread Group 1-20,text,true,,622,275,10,10,http://10.240.4.179/api/issues/?ordering=-creation_date,27,0,0
+1631775637844,106,Articles's list jdh001,200,OK,Thread Group 1-12,text,true,,224350,264,11,11,http://10.240.4.179/api/articles/?pid=jdh001,99,0,0
+1631775637746,218,Random article,200,OK,Thread Group 1-10,text,true,,20524,531,11,11,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,103,0,0
+1631775637746,103,Random article-0,301,Moved Permanently,Thread Group 1-10,text,true,,279,265,11,11,http://10.240.4.179/api/articles/8pGzPyTDKBjR,103,0,0
+1631775637849,115,Random article-1,200,OK,Thread Group 1-10,text,true,,20245,266,11,11,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,115,0,0
+1631775637838,151,Random article,200,OK,Thread Group 1-14,text,true,,20524,531,12,12,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,31,0,0
+1631775637838,31,Random article-0,301,Moved Permanently,Thread Group 1-14,text,true,,279,265,12,12,http://10.240.4.179/api/articles/8pGzPyTDKBjR,31,0,0
+1631775637869,120,Random article-1,200,OK,Thread Group 1-14,text,true,,20245,266,12,12,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,120,0,0
+1631775637827,175,Issues list,200,OK,Thread Group 1-19,text,true,,910,549,12,12,http://10.240.4.179/api/issues/?ordering=-creation_date,42,0,2
+1631775637827,42,Issues list-0,301,Moved Permanently,Thread Group 1-19,text,true,,288,274,12,12,http://10.240.4.179/api/issues?ordering=-creation_date,42,0,2
+1631775637869,133,Issues list-1,200,OK,Thread Group 1-19,text,true,,622,275,12,12,http://10.240.4.179/api/issues/?ordering=-creation_date,133,0,0
+1631775637893,117,Issue jdh001,200,OK,Thread Group 1-18,text,true,,750,515,12,12,http://10.240.4.179/api/issues/jdh001/,27,0,0
+1631775637893,27,Issue jdh001-0,301,Moved Permanently,Thread Group 1-18,text,true,,271,257,12,12,http://10.240.4.179/api/issues/jdh001,27,0,0
+1631775637920,90,Issue jdh001-1,200,OK,Thread Group 1-18,text,true,,479,258,12,12,http://10.240.4.179/api/issues/jdh001/,90,0,0
+1631775637910,103,Articles's list jdh001,200,OK,Thread Group 1-17,text,true,,224350,264,12,12,http://10.240.4.179/api/articles/?pid=jdh001,89,0,0
+1631775637863,181,Random article,200,OK,Thread Group 1-16,text,true,,20524,531,13,13,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,102,0,0
+1631775637863,102,Random article-0,301,Moved Permanently,Thread Group 1-16,text,true,,279,265,13,13,http://10.240.4.179/api/articles/8pGzPyTDKBjR,102,0,0
+1631775637965,79,Random article-1,200,OK,Thread Group 1-16,text,true,,20245,266,13,13,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,79,0,0
+1631775637932,123,Issues list,200,OK,Thread Group 1-21,text,true,,910,549,13,13,http://10.240.4.179/api/issues/?ordering=-creation_date,81,0,1
+1631775637932,81,Issues list-0,301,Moved Permanently,Thread Group 1-21,text,true,,288,274,13,13,http://10.240.4.179/api/issues?ordering=-creation_date,81,0,1
+1631775638013,42,Issues list-1,200,OK,Thread Group 1-21,text,true,,622,275,13,13,http://10.240.4.179/api/issues/?ordering=-creation_date,42,0,0
+1631775638002,68,Issue jdh001,200,OK,Thread Group 1-19,text,true,,750,515,13,13,http://10.240.4.179/api/issues/jdh001/,42,0,0
+1631775638002,42,Issue jdh001-0,301,Moved Permanently,Thread Group 1-19,text,true,,271,257,13,13,http://10.240.4.179/api/issues/jdh001,42,0,0
+1631775638044,26,Issue jdh001-1,200,OK,Thread Group 1-19,text,true,,479,258,13,13,http://10.240.4.179/api/issues/jdh001/,26,0,0
+1631775637873,199,Raw github,200,OK,Thread Group 1-11,text,true,,9297333,335,13,13,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,4,0,0
+1631775638017,83,Random article,200,OK,Thread Group 1-17,text,true,,29182,531,13,13,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,41,0,0
+1631775637902,196,Articles's list jdh001,200,OK,Thread Group 1-15,text,true,,224350,264,13,13,http://10.240.4.179/api/articles/?pid=jdh001,185,0,0
+1631775638017,41,Random article-0,301,Moved Permanently,Thread Group 1-17,text,true,,279,265,13,13,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,41,0,0
+1631775638058,42,Random article-1,200,OK,Thread Group 1-17,text,true,,28903,266,13,13,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,42,0,0
+1631775638027,85,Issues list,200,OK,Thread Group 1-23,text,true,,910,549,13,13,http://10.240.4.179/api/issues/?ordering=-creation_date,31,0,3
+1631775638027,31,Issues list-0,301,Moved Permanently,Thread Group 1-23,text,true,,288,274,13,13,http://10.240.4.179/api/issues?ordering=-creation_date,31,0,3
+1631775638058,54,Issues list-1,200,OK,Thread Group 1-23,text,true,,622,275,13,13,http://10.240.4.179/api/issues/?ordering=-creation_date,54,0,0
+1631775638056,67,Issue jdh001,200,OK,Thread Group 1-21,text,true,,750,515,13,13,http://10.240.4.179/api/issues/jdh001/,14,0,0
+1631775638056,14,Issue jdh001-0,301,Moved Permanently,Thread Group 1-21,text,true,,271,257,13,13,http://10.240.4.179/api/issues/jdh001,14,0,0
+1631775638070,53,Issue jdh001-1,200,OK,Thread Group 1-21,text,true,,479,258,13,13,http://10.240.4.179/api/issues/jdh001/,53,0,0
+1631775638101,60,Raw github,200,OK,Thread Group 1-17,text,true,,1143276,337,14,14,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,4,0,0
+1631775638010,177,Articles's list jdh001,200,OK,Thread Group 1-18,text,true,,224350,264,14,14,http://10.240.4.179/api/articles/?pid=jdh001,164,0,0
+1631775637921,301,Issue jdh001,200,OK,Thread Group 1-20,text,true,,750,515,14,14,http://10.240.4.179/api/issues/jdh001/,170,0,0
+1631775637921,170,Issue jdh001-0,301,Moved Permanently,Thread Group 1-20,text,true,,271,257,14,14,http://10.240.4.179/api/issues/jdh001,170,0,0
+1631775638091,131,Issue jdh001-1,200,OK,Thread Group 1-20,text,true,,479,258,14,14,http://10.240.4.179/api/issues/jdh001/,131,0,0
+1631775638070,155,Articles's list jdh001,200,OK,Thread Group 1-19,text,true,,224350,264,14,14,http://10.240.4.179/api/articles/?pid=jdh001,141,0,0
+1631775637953,293,Random article,200,OK,Thread Group 1-12,text,true,,41871,531,15,15,http://10.240.4.179/api/articles/JJszM3GwAYDs/,138,0,0
+1631775637953,138,Random article-0,301,Moved Permanently,Thread Group 1-12,text,true,,279,265,15,15,http://10.240.4.179/api/articles/JJszM3GwAYDs,138,0,0
+1631775638091,155,Random article-1,200,OK,Thread Group 1-12,text,true,,41592,266,15,15,http://10.240.4.179/api/articles/JJszM3GwAYDs/,153,0,0
+1631775637976,281,Issues list,200,OK,Thread Group 1-22,text,true,,910,549,15,15,http://10.240.4.179/api/issues/?ordering=-creation_date,117,0,2
+1631775637976,117,Issues list-0,301,Moved Permanently,Thread Group 1-22,text,true,,288,274,15,15,http://10.240.4.179/api/issues?ordering=-creation_date,117,0,2
+1631775638093,164,Issues list-1,200,OK,Thread Group 1-22,text,true,,622,275,15,15,http://10.240.4.179/api/issues/?ordering=-creation_date,164,0,0
+1631775638112,159,Issue jdh001,200,OK,Thread Group 1-23,text,true,,750,515,15,15,http://10.240.4.179/api/issues/jdh001/,67,0,0
+1631775638112,67,Issue jdh001-0,301,Moved Permanently,Thread Group 1-23,text,true,,271,257,15,15,http://10.240.4.179/api/issues/jdh001,67,0,0
+1631775638179,92,Issue jdh001-1,200,OK,Thread Group 1-23,text,true,,479,258,15,15,http://10.240.4.179/api/issues/jdh001/,91,0,0
+1631775638123,151,Articles's list jdh001,200,OK,Thread Group 1-21,text,true,,224350,264,15,15,http://10.240.4.179/api/articles/?pid=jdh001,135,0,0
+1631775638082,197,Issues list,200,OK,Thread Group 1-24,text,true,,910,549,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,133,0,2
+1631775638082,133,Issues list-0,301,Moved Permanently,Thread Group 1-24,text,true,,288,274,16,16,http://10.240.4.179/api/issues?ordering=-creation_date,133,0,2
+1631775638215,64,Issues list-1,200,OK,Thread Group 1-24,text,true,,622,275,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,64,0,0
+1631775638189,105,Random article,200,OK,Thread Group 1-18,text,true,,35081,531,16,16,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,68,0,0
+1631775638189,68,Random article-0,301,Moved Permanently,Thread Group 1-18,text,true,,279,265,16,16,http://10.240.4.179/api/articles/WBqfZzfi7nHK,68,0,0
+1631775638257,37,Random article-1,200,OK,Thread Group 1-18,text,true,,34802,266,16,16,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,36,0,0
+1631775638180,124,Issues list,200,OK,Thread Group 1-26,text,true,,910,549,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,77,0,2
+1631775638180,77,Issues list-0,301,Moved Permanently,Thread Group 1-26,text,true,,288,274,16,16,http://10.240.4.179/api/issues?ordering=-creation_date,77,0,2
+1631775638257,47,Issues list-1,200,OK,Thread Group 1-26,text,true,,622,275,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,47,0,0
+1631775638101,230,Random article,200,OK,Thread Group 1-15,text,true,,4331,531,17,17,http://10.240.4.179/api/articles/MyifnvNPDgUx/,156,0,0
+1631775638101,156,Random article-0,301,Moved Permanently,Thread Group 1-15,text,true,,279,265,17,17,http://10.240.4.179/api/articles/MyifnvNPDgUx,156,0,0
+1631775638257,74,Random article-1,200,OK,Thread Group 1-15,text,true,,4052,266,17,17,http://10.240.4.179/api/articles/MyifnvNPDgUx/,74,0,0
+1631775638331,10,Raw github,200,OK,Thread Group 1-15,text,true,,153631,356,17,17,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-MyifnvNPDgUx/main/taking-the-measure-of-social-democracy-anonymous.ipynb,2,0,0
+1631775638228,128,Random article,200,OK,Thread Group 1-19,text,true,,37019,531,16,16,http://10.240.4.179/api/articles/33pRxE2dtUHP/,32,0,0
+1631775638228,32,Random article-0,301,Moved Permanently,Thread Group 1-19,text,true,,279,265,16,16,http://10.240.4.179/api/articles/33pRxE2dtUHP,32,0,0
+1631775638260,96,Random article-1,200,OK,Thread Group 1-19,text,true,,36740,266,16,16,http://10.240.4.179/api/articles/33pRxE2dtUHP/,96,0,0
+1631775638128,249,Issues list,200,OK,Thread Group 1-25,text,true,,910,549,17,17,http://10.240.4.179/api/issues/?ordering=-creation_date,129,0,2
+1631775638128,129,Issues list-0,301,Moved Permanently,Thread Group 1-25,text,true,,288,274,17,17,http://10.240.4.179/api/issues?ordering=-creation_date,129,0,2
+1631775638257,120,Issues list-1,200,OK,Thread Group 1-25,text,true,,622,275,17,17,http://10.240.4.179/api/issues/?ordering=-creation_date,120,0,0
+1631775638223,157,Articles's list jdh001,200,OK,Thread Group 1-20,text,true,,224350,264,17,17,http://10.240.4.179/api/articles/?pid=jdh001,142,0,0
+1631775638247,146,Raw github,200,OK,Thread Group 1-12,text,true,,2038004,344,17,17,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,2,0,0
+1631775638278,118,Random article,200,OK,Thread Group 1-21,text,true,,11947,531,16,16,http://10.240.4.179/api/articles/9HcfToh7EYm8/,82,0,0
+1631775638278,82,Random article-0,301,Moved Permanently,Thread Group 1-21,text,true,,279,265,16,16,http://10.240.4.179/api/articles/9HcfToh7EYm8,82,0,0
+1631775638360,36,Random article-1,200,OK,Thread Group 1-21,text,true,,11668,266,16,16,http://10.240.4.179/api/articles/9HcfToh7EYm8/,36,0,0
+1631775638329,77,Issues list,200,OK,Thread Group 1-29,text,true,,910,549,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,31,0,3
+1631775638329,31,Issues list-0,301,Moved Permanently,Thread Group 1-29,text,true,,288,274,16,16,http://10.240.4.179/api/issues?ordering=-creation_date,31,0,3
+1631775638360,46,Issues list-1,200,OK,Thread Group 1-29,text,true,,622,275,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,46,0,0
+1631775638232,190,Issues list,200,OK,Thread Group 1-27,text,true,,910,549,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,134,0,3
+1631775638232,134,Issues list-0,301,Moved Permanently,Thread Group 1-27,text,true,,288,274,16,16,http://10.240.4.179/api/issues?ordering=-creation_date,134,0,3
+1631775638366,56,Issues list-1,200,OK,Thread Group 1-27,text,true,,622,275,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,56,0,0
+1631775638045,383,Raw github,200,OK,Thread Group 1-16,text,true,,14088282,319,16,16,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,2,0,0
+1631775638258,175,Issue jdh001,200,OK,Thread Group 1-22,text,true,,750,515,16,16,http://10.240.4.179/api/issues/jdh001/,121,0,0
+1631775638258,121,Issue jdh001-0,301,Moved Permanently,Thread Group 1-22,text,true,,271,257,16,16,http://10.240.4.179/api/issues/jdh001,121,0,0
+1631775638379,54,Issue jdh001-1,200,OK,Thread Group 1-22,text,true,,479,258,16,16,http://10.240.4.179/api/issues/jdh001/,54,0,0
+1631775637964,487,Raw github,200,OK,Thread Group 1-10,text,true,,14088282,319,16,16,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,2,0,0
+1631775638377,104,Issue jdh001,200,OK,Thread Group 1-25,text,true,,750,515,16,16,http://10.240.4.179/api/issues/jdh001/,49,0,0
+1631775638377,49,Issue jdh001-0,301,Moved Permanently,Thread Group 1-25,text,true,,271,257,16,16,http://10.240.4.179/api/issues/jdh001,49,0,0
+1631775638426,55,Issue jdh001-1,200,OK,Thread Group 1-25,text,true,,479,258,16,16,http://10.240.4.179/api/issues/jdh001/,55,0,0
+1631775638271,213,Articles's list jdh001,200,OK,Thread Group 1-23,text,true,,224350,264,16,16,http://10.240.4.179/api/articles/?pid=jdh001,195,0,0
+1631775638422,73,Issue jdh001,200,OK,Thread Group 1-27,text,true,,750,515,16,16,http://10.240.4.179/api/issues/jdh001/,11,0,0
+1631775638422,11,Issue jdh001-0,301,Moved Permanently,Thread Group 1-27,text,true,,271,257,16,16,http://10.240.4.179/api/issues/jdh001,11,0,0
+1631775638433,62,Issue jdh001-1,200,OK,Thread Group 1-27,text,true,,479,258,16,16,http://10.240.4.179/api/issues/jdh001/,62,0,0
+1631775638390,126,Random article,200,OK,Thread Group 1-20,text,true,,19120,531,16,16,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,43,0,0
+1631775638390,43,Random article-0,301,Moved Permanently,Thread Group 1-20,text,true,,279,265,16,16,http://10.240.4.179/api/articles/SLCj9T3MsrEk,43,0,0
+1631775638433,83,Random article-1,200,OK,Thread Group 1-20,text,true,,18841,266,16,16,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,83,0,0
+1631775638278,249,Issues list,200,OK,Thread Group 1-28,text,true,,910,549,17,17,http://10.240.4.179/api/issues/?ordering=-creation_date,192,0,2
+1631775638278,192,Issues list-0,301,Moved Permanently,Thread Group 1-28,text,true,,288,274,17,17,http://10.240.4.179/api/issues?ordering=-creation_date,192,0,2
+1631775638470,57,Issues list-1,200,OK,Thread Group 1-28,text,true,,622,275,17,17,http://10.240.4.179/api/issues/?ordering=-creation_date,57,0,0
+1631775638397,142,Raw github,200,OK,Thread Group 1-21,text,true,,3270289,325,17,17,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-9HcfToh7EYm8/main/dialectsofdiscord.ipynb,2,0,0
+1631775638407,136,Issue jdh001,200,OK,Thread Group 1-29,text,true,,750,515,16,16,http://10.240.4.179/api/issues/jdh001/,66,0,0
+1631775638407,66,Issue jdh001-0,301,Moved Permanently,Thread Group 1-29,text,true,,271,257,16,16,http://10.240.4.179/api/issues/jdh001,66,0,0
+1631775638473,70,Issue jdh001-1,200,OK,Thread Group 1-29,text,true,,479,258,16,16,http://10.240.4.179/api/issues/jdh001/,69,0,0
+1631775638376,167,Issues list,200,OK,Thread Group 1-30,text,true,,910,549,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,57,0,3
+1631775638376,57,Issues list-0,301,Moved Permanently,Thread Group 1-30,text,true,,288,274,16,16,http://10.240.4.179/api/issues?ordering=-creation_date,57,0,3
+1631775638433,110,Issues list-1,200,OK,Thread Group 1-30,text,true,,622,275,16,16,http://10.240.4.179/api/issues/?ordering=-creation_date,110,0,0
+1631775638433,116,Articles's list jdh001,200,OK,Thread Group 1-22,text,true,,224350,264,16,16,http://10.240.4.179/api/articles/?pid=jdh001,95,0,0
+1631775637990,562,Raw github,200,OK,Thread Group 1-14,text,true,,14088282,319,16,16,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,3,0,0
+1631775638280,275,Issue jdh001,200,OK,Thread Group 1-24,text,true,,750,515,15,15,http://10.240.4.179/api/issues/jdh001/,190,0,0
+1631775638280,190,Issue jdh001-0,301,Moved Permanently,Thread Group 1-24,text,true,,271,257,15,15,http://10.240.4.179/api/issues/jdh001,190,0,0
+1631775638470,85,Issue jdh001-1,200,OK,Thread Group 1-24,text,true,,479,258,15,15,http://10.240.4.179/api/issues/jdh001/,85,0,0
+1631775638527,35,Issues list,200,OK,Thread Group 1-33,text,true,,910,549,15,15,http://10.240.4.179/api/issues/?ordering=-creation_date,16,0,2
+1631775638527,16,Issues list-0,301,Moved Permanently,Thread Group 1-33,text,true,,288,274,15,15,http://10.240.4.179/api/issues?ordering=-creation_date,16,0,2
+1631775638543,19,Issues list-1,200,OK,Thread Group 1-33,text,true,,622,275,15,15,http://10.240.4.179/api/issues/?ordering=-creation_date,19,0,0
+1631775638304,263,Issue jdh001,200,OK,Thread Group 1-26,text,true,,750,515,15,15,http://10.240.4.179/api/issues/jdh001/,169,0,0
+1631775638304,169,Issue jdh001-0,301,Moved Permanently,Thread Group 1-26,text,true,,271,257,15,15,http://10.240.4.179/api/issues/jdh001,169,0,0
+1631775638473,94,Issue jdh001-1,200,OK,Thread Group 1-26,text,true,,479,258,15,15,http://10.240.4.179/api/issues/jdh001/,94,0,0
+1631775638517,52,Raw github,200,OK,Thread Group 1-20,text,true,,1847661,331,15,15,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,2,0,0
+1631775638295,300,Raw github,200,OK,Thread Group 1-18,text,true,,6779253,347,15,15,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-WBqfZzfi7nHK/main/scripts/Digital_epigraphy_cite2c_biblio.ipynb,1,0,0
+1631775638357,279,Raw github,200,OK,Thread Group 1-19,text,true,,10203231,314,15,15,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,4,0,0
+1631775638481,166,Articles's list jdh001,200,OK,Thread Group 1-25,text,true,,224350,264,14,14,http://10.240.4.179/api/articles/?pid=jdh001,158,0,0
+1631775638429,221,Issues list,200,OK,Thread Group 1-31,text,true,,910,549,14,14,http://10.240.4.179/api/issues/?ordering=-creation_date,54,0,3
+1631775638429,54,Issues list-0,301,Moved Permanently,Thread Group 1-31,text,true,,288,274,14,14,http://10.240.4.179/api/issues?ordering=-creation_date,54,0,3
+1631775638483,167,Issues list-1,200,OK,Thread Group 1-31,text,true,,622,275,14,14,http://10.240.4.179/api/issues/?ordering=-creation_date,167,0,0
+1631775638555,104,Articles's list jdh001,200,OK,Thread Group 1-24,text,true,,224350,264,14,14,http://10.240.4.179/api/articles/?pid=jdh001,95,0,0
+1631775638552,126,Random article,200,OK,Thread Group 1-22,text,true,,30292,531,15,15,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,11,0,0
+1631775638552,11,Random article-0,301,Moved Permanently,Thread Group 1-22,text,true,,279,265,15,15,http://10.240.4.179/api/articles/4yxHGiqXYRbX,11,0,0
+1631775638563,115,Random article-1,200,OK,Thread Group 1-22,text,true,,30013,266,15,15,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,114,0,0
+1631775638477,210,Issues list,200,OK,Thread Group 1-32,text,true,,910,549,15,15,http://10.240.4.179/api/issues/?ordering=-creation_date,90,0,3
+1631775638477,90,Issues list-0,301,Moved Permanently,Thread Group 1-32,text,true,,288,274,15,15,http://10.240.4.179/api/issues?ordering=-creation_date,90,0,3
+1631775638567,120,Issues list-1,200,OK,Thread Group 1-32,text,true,,622,275,15,15,http://10.240.4.179/api/issues/?ordering=-creation_date,120,0,0
+1631775638495,246,Articles's list jdh001,200,OK,Thread Group 1-27,text,true,,224350,264,16,16,http://10.240.4.179/api/articles/?pid=jdh001,238,0,0
+1631775638567,200,Articles's list jdh001,200,OK,Thread Group 1-26,text,true,,224350,264,16,16,http://10.240.4.179/api/articles/?pid=jdh001,189,0,0
+1631775638486,299,Random article,200,OK,Thread Group 1-23,text,true,,20524,531,17,17,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,165,0,0
+1631775638486,165,Random article-0,301,Moved Permanently,Thread Group 1-23,text,true,,279,265,17,17,http://10.240.4.179/api/articles/8pGzPyTDKBjR,165,0,0
+1631775638651,134,Random article-1,200,OK,Thread Group 1-23,text,true,,20245,266,17,17,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,133,0,0
+1631775638650,143,Issue jdh001,200,OK,Thread Group 1-31,text,true,,750,515,17,17,http://10.240.4.179/api/issues/jdh001/,112,0,0
+1631775638650,112,Issue jdh001-0,301,Moved Permanently,Thread Group 1-31,text,true,,271,257,17,17,http://10.240.4.179/api/issues/jdh001,112,0,0
+1631775638762,31,Issue jdh001-1,200,OK,Thread Group 1-31,text,true,,479,258,17,17,http://10.240.4.179/api/issues/jdh001/,31,0,0
+1631775638662,156,Random article,200,OK,Thread Group 1-24,text,true,,30292,531,17,17,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,123,0,0
+1631775638662,123,Random article-0,301,Moved Permanently,Thread Group 1-24,text,true,,279,265,17,17,http://10.240.4.179/api/articles/4yxHGiqXYRbX,123,0,0
+1631775638785,33,Random article-1,200,OK,Thread Group 1-24,text,true,,30013,266,17,17,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,33,0,0
+1631775638687,142,Issue jdh001,200,OK,Thread Group 1-32,text,true,,750,515,18,18,http://10.240.4.179/api/issues/jdh001/,98,0,0
+1631775638562,267,Issue jdh001,200,OK,Thread Group 1-33,text,true,,750,515,18,18,http://10.240.4.179/api/issues/jdh001/,92,0,0
+1631775638687,98,Issue jdh001-0,301,Moved Permanently,Thread Group 1-32,text,true,,271,257,18,18,http://10.240.4.179/api/issues/jdh001,98,0,0
+1631775638562,92,Issue jdh001-0,301,Moved Permanently,Thread Group 1-33,text,true,,271,257,18,18,http://10.240.4.179/api/issues/jdh001,92,0,0
+1631775638785,44,Issue jdh001-1,200,OK,Thread Group 1-32,text,true,,479,258,18,18,http://10.240.4.179/api/issues/jdh001/,44,0,0
+1631775638654,175,Issue jdh001-1,200,OK,Thread Group 1-33,text,true,,479,258,18,18,http://10.240.4.179/api/issues/jdh001/,175,0,0
+1631775638543,286,Articles's list jdh001,200,OK,Thread Group 1-29,text,true,,224350,264,18,18,http://10.240.4.179/api/articles/?pid=jdh001,275,0,0
+1631775638679,162,Issues list,200,OK,Thread Group 1-36,text,true,,910,549,18,18,http://10.240.4.179/api/issues/?ordering=-creation_date,150,0,2
+1631775638527,314,Issue jdh001,200,OK,Thread Group 1-28,text,true,,750,515,18,18,http://10.240.4.179/api/issues/jdh001/,211,0,0
+1631775638679,150,Issues list-0,301,Moved Permanently,Thread Group 1-36,text,true,,288,274,18,18,http://10.240.4.179/api/issues?ordering=-creation_date,150,0,2
+1631775638829,12,Issues list-1,200,OK,Thread Group 1-36,text,true,,622,275,18,18,http://10.240.4.179/api/issues/?ordering=-creation_date,12,0,0
+1631775638527,211,Issue jdh001-0,301,Moved Permanently,Thread Group 1-28,text,true,,271,257,18,18,http://10.240.4.179/api/issues/jdh001,211,0,0
+1631775638738,103,Issue jdh001-1,200,OK,Thread Group 1-28,text,true,,479,258,18,18,http://10.240.4.179/api/issues/jdh001/,103,0,0
+1631775638627,224,Issues list,200,OK,Thread Group 1-35,text,true,,910,549,18,18,http://10.240.4.179/api/issues/?ordering=-creation_date,132,0,2
+1631775638627,132,Issues list-0,301,Moved Permanently,Thread Group 1-35,text,true,,288,274,18,18,http://10.240.4.179/api/issues?ordering=-creation_date,132,0,2
+1631775638759,92,Issues list-1,200,OK,Thread Group 1-35,text,true,,622,275,18,18,http://10.240.4.179/api/issues/?ordering=-creation_date,92,0,0
+1631775638649,221,Random article,200,OK,Thread Group 1-25,text,true,,20524,531,18,18,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,113,0,0
+1631775638649,113,Random article-0,301,Moved Permanently,Thread Group 1-25,text,true,,279,265,18,18,http://10.240.4.179/api/articles/8pGzPyTDKBjR,113,0,0
+1631775638762,108,Random article-1,200,OK,Thread Group 1-25,text,true,,20245,266,18,18,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,108,0,0
+1631775638728,153,Issues list,200,OK,Thread Group 1-37,text,true,,910,549,19,19,http://10.240.4.179/api/issues/?ordering=-creation_date,57,0,2
+1631775638728,57,Issues list-0,301,Moved Permanently,Thread Group 1-37,text,true,,288,274,19,19,http://10.240.4.179/api/issues?ordering=-creation_date,57,0,2
+1631775638785,96,Issues list-1,200,OK,Thread Group 1-37,text,true,,622,275,19,19,http://10.240.4.179/api/issues/?ordering=-creation_date,96,0,0
+1631775638826,127,Issues list,200,OK,Thread Group 1-39,text,true,,910,549,20,20,http://10.240.4.179/api/issues/?ordering=-creation_date,112,0,3
+1631775638826,112,Issues list-0,301,Moved Permanently,Thread Group 1-39,text,true,,288,274,20,20,http://10.240.4.179/api/issues?ordering=-creation_date,112,0,3
+1631775638938,15,Issues list-1,200,OK,Thread Group 1-39,text,true,,622,275,20,20,http://10.240.4.179/api/issues/?ordering=-creation_date,15,0,0
+1631775638829,123,Articles's list jdh001,200,OK,Thread Group 1-32,text,true,,224350,264,20,20,http://10.240.4.179/api/articles/?pid=jdh001,105,0,0
+1631775638953,17,Issue jdh001,200,OK,Thread Group 1-39,text,true,,750,515,20,20,http://10.240.4.179/api/issues/jdh001/,4,0,0
+1631775638953,4,Issue jdh001-0,301,Moved Permanently,Thread Group 1-39,text,true,,271,257,20,20,http://10.240.4.179/api/issues/jdh001,4,0,0
+1631775638957,13,Issue jdh001-1,200,OK,Thread Group 1-39,text,true,,479,258,20,20,http://10.240.4.179/api/issues/jdh001/,13,0,0
+1631775638793,194,Articles's list jdh001,200,OK,Thread Group 1-31,text,true,,224350,264,21,21,http://10.240.4.179/api/articles/?pid=jdh001,174,0,0
+1631775638770,225,Random article,200,OK,Thread Group 1-26,text,true,,35081,531,21,21,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,24,0,0
+1631775638770,24,Random article-0,301,Moved Permanently,Thread Group 1-26,text,true,,279,265,21,21,http://10.240.4.179/api/articles/WBqfZzfi7nHK,24,0,0
+1631775638794,201,Random article-1,200,OK,Thread Group 1-26,text,true,,34802,266,21,21,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,199,0,0
+1631775638955,42,Random article,200,OK,Thread Group 1-32,text,true,,11947,531,21,21,http://10.240.4.179/api/articles/9HcfToh7EYm8/,2,0,0
+1631775638955,2,Random article-0,301,Moved Permanently,Thread Group 1-32,text,true,,279,265,21,21,http://10.240.4.179/api/articles/9HcfToh7EYm8,2,0,0
+1631775638958,39,Random article-1,200,OK,Thread Group 1-32,text,true,,11668,266,21,21,http://10.240.4.179/api/articles/9HcfToh7EYm8/,39,0,0
+1631775638579,424,Issues list,200,OK,Thread Group 1-34,text,true,,910,549,21,21,http://10.240.4.179/api/issues/?ordering=-creation_date,239,0,1
+1631775638579,239,Issues list-0,301,Moved Permanently,Thread Group 1-34,text,true,,288,274,21,21,http://10.240.4.179/api/issues?ordering=-creation_date,239,0,1
+1631775638818,185,Issues list-1,200,OK,Thread Group 1-34,text,true,,622,275,21,21,http://10.240.4.179/api/issues/?ordering=-creation_date,185,0,0
+1631775638543,473,Issue jdh001,200,OK,Thread Group 1-30,text,true,,750,515,21,21,http://10.240.4.179/api/issues/jdh001/,275,0,0
+1631775638543,275,Issue jdh001-0,301,Moved Permanently,Thread Group 1-30,text,true,,271,257,21,21,http://10.240.4.179/api/issues/jdh001,275,0,0
+1631775638818,198,Issue jdh001-1,200,OK,Thread Group 1-30,text,true,,479,258,21,21,http://10.240.4.179/api/issues/jdh001/,198,0,0
+1631775638679,381,Raw github,200,OK,Thread Group 1-22,text,true,,9297333,335,22,22,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,2,0,0
+1631775638781,335,Issues list,200,OK,Thread Group 1-38,text,true,,910,549,22,22,http://10.240.4.179/api/issues/?ordering=-creation_date,48,0,4
+1631775638781,48,Issues list-0,301,Moved Permanently,Thread Group 1-38,text,true,,288,274,22,22,http://10.240.4.179/api/issues?ordering=-creation_date,48,0,4
+1631775638829,287,Issues list-1,200,OK,Thread Group 1-38,text,true,,622,275,22,22,http://10.240.4.179/api/issues/?ordering=-creation_date,287,0,0
+1631775638970,144,Articles's list jdh001,200,OK,Thread Group 1-39,text,true,,224350,264,22,22,http://10.240.4.179/api/articles/?pid=jdh001,127,0,0
+1631775638829,297,Articles's list jdh001,200,OK,Thread Group 1-33,text,true,,224350,264,22,22,http://10.240.4.179/api/articles/?pid=jdh001,272,0,0
+1631775638990,142,Random article,200,OK,Thread Group 1-31,text,true,,37019,531,23,23,http://10.240.4.179/api/articles/33pRxE2dtUHP/,111,0,0
+1631775638990,111,Random article-0,301,Moved Permanently,Thread Group 1-31,text,true,,279,265,23,23,http://10.240.4.179/api/articles/33pRxE2dtUHP,111,0,0
+1631775639101,31,Random article-1,200,OK,Thread Group 1-31,text,true,,36740,266,23,23,http://10.240.4.179/api/articles/33pRxE2dtUHP/,29,0,0
+1631775638976,165,Issues list,200,OK,Thread Group 1-42,text,true,,910,549,23,23,http://10.240.4.179/api/issues/?ordering=-creation_date,125,0,3
+1631775638976,125,Issues list-0,301,Moved Permanently,Thread Group 1-42,text,true,,288,274,23,23,http://10.240.4.179/api/issues?ordering=-creation_date,125,0,3
+1631775639101,40,Issues list-1,200,OK,Thread Group 1-42,text,true,,622,275,23,23,http://10.240.4.179/api/issues/?ordering=-creation_date,40,0,0
+1631775638743,403,Random article,200,OK,Thread Group 1-27,text,true,,29182,531,23,23,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,98,0,0
+1631775638743,98,Random article-0,301,Moved Permanently,Thread Group 1-27,text,true,,279,265,23,23,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,98,0,0
+1631775638841,305,Random article-1,200,OK,Thread Group 1-27,text,true,,28903,266,23,23,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,302,0,0
+1631775639004,147,Issue jdh001,200,OK,Thread Group 1-34,text,true,,750,515,23,23,http://10.240.4.179/api/issues/jdh001/,97,0,0
+1631775639004,97,Issue jdh001-0,301,Moved Permanently,Thread Group 1-34,text,true,,271,257,23,23,http://10.240.4.179/api/issues/jdh001,97,0,0
+1631775639101,50,Issue jdh001-1,200,OK,Thread Group 1-34,text,true,,479,258,23,23,http://10.240.4.179/api/issues/jdh001/,50,0,0
+1631775638785,386,Raw github,200,OK,Thread Group 1-23,text,true,,14088282,319,23,23,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,2,0,0
+1631775638819,367,Raw github,200,OK,Thread Group 1-24,text,true,,9297333,335,23,23,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,2,0,0
+1631775638998,200,Raw github,200,OK,Thread Group 1-32,text,true,,3270289,325,22,22,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-9HcfToh7EYm8/main/dialectsofdiscord.ipynb,3,0,0
+1631775639178,22,Issues list,200,OK,Thread Group 1-46,text,true,,910,549,21,21,http://10.240.4.179/api/issues/?ordering=-creation_date,8,0,3
+1631775639178,8,Issues list-0,301,Moved Permanently,Thread Group 1-46,text,true,,288,274,21,21,http://10.240.4.179/api/issues?ordering=-creation_date,8,0,3
+1631775639186,14,Issues list-1,200,OK,Thread Group 1-46,text,true,,622,275,21,21,http://10.240.4.179/api/issues/?ordering=-creation_date,14,0,0
+1631775639147,82,Raw github,200,OK,Thread Group 1-27,text,true,,1143276,337,22,22,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,4,0,0
+1631775638881,363,Issue jdh001,200,OK,Thread Group 1-37,text,true,,750,515,21,21,http://10.240.4.179/api/issues/jdh001/,58,0,0
+1631775638881,58,Issue jdh001-0,301,Moved Permanently,Thread Group 1-37,text,true,,271,257,21,21,http://10.240.4.179/api/issues/jdh001,58,0,0
+1631775638939,305,Issue jdh001-1,200,OK,Thread Group 1-37,text,true,,479,258,21,21,http://10.240.4.179/api/issues/jdh001/,305,0,0
+1631775638851,395,Issue jdh001,200,OK,Thread Group 1-35,text,true,,750,515,21,21,http://10.240.4.179/api/issues/jdh001/,382,0,0
+1631775638851,382,Issue jdh001-0,301,Moved Permanently,Thread Group 1-35,text,true,,271,257,21,21,http://10.240.4.179/api/issues/jdh001,382,0,0
+1631775639234,12,Issue jdh001-1,200,OK,Thread Group 1-35,text,true,,479,258,21,21,http://10.240.4.179/api/issues/jdh001/,12,0,0
+1631775638842,401,Articles's list jdh001,200,OK,Thread Group 1-28,text,true,,224350,264,21,21,http://10.240.4.179/api/articles/?pid=jdh001,388,0,0
+1631775638878,377,Issues list,200,OK,Thread Group 1-40,text,true,,910,549,21,21,http://10.240.4.179/api/issues/?ordering=-creation_date,61,0,2
+1631775638878,61,Issues list-0,301,Moved Permanently,Thread Group 1-40,text,true,,288,274,21,21,http://10.240.4.179/api/issues?ordering=-creation_date,61,0,2
+1631775638939,316,Issues list-1,200,OK,Thread Group 1-40,text,true,,622,275,21,21,http://10.240.4.179/api/issues/?ordering=-creation_date,316,0,0
+1631775639255,16,Issue jdh001,200,OK,Thread Group 1-40,text,true,,750,515,21,21,http://10.240.4.179/api/issues/jdh001/,4,0,0
+1631775639255,4,Issue jdh001-0,301,Moved Permanently,Thread Group 1-40,text,true,,271,257,21,21,http://10.240.4.179/api/issues/jdh001,4,0,0
+1631775639259,12,Issue jdh001-1,200,OK,Thread Group 1-40,text,true,,479,258,21,21,http://10.240.4.179/api/issues/jdh001/,12,0,0
+1631775638996,352,Raw github,200,OK,Thread Group 1-26,text,true,,6779253,347,23,23,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-WBqfZzfi7nHK/main/scripts/Digital_epigraphy_cite2c_biblio.ipynb,2,0,0
+1631775639080,283,Issues list,200,OK,Thread Group 1-44,text,true,,910,549,22,22,http://10.240.4.179/api/issues/?ordering=-creation_date,267,0,2
+1631775639080,267,Issues list-0,301,Moved Permanently,Thread Group 1-44,text,true,,288,274,22,22,http://10.240.4.179/api/issues?ordering=-creation_date,267,0,2
+1631775639347,16,Issues list-1,200,OK,Thread Group 1-44,text,true,,622,275,22,22,http://10.240.4.179/api/issues/?ordering=-creation_date,16,0,0
+1631775639016,347,Articles's list jdh001,200,OK,Thread Group 1-30,text,true,,224350,264,22,22,http://10.240.4.179/api/articles/?pid=jdh001,330,0,0
+1631775639271,92,Articles's list jdh001,200,OK,Thread Group 1-40,text,true,,224350,264,22,22,http://10.240.4.179/api/articles/?pid=jdh001,76,0,0
+1631775639026,344,Issues list,200,OK,Thread Group 1-43,text,true,,910,549,22,22,http://10.240.4.179/api/issues/?ordering=-creation_date,321,0,3
+1631775639026,321,Issues list-0,301,Moved Permanently,Thread Group 1-43,text,true,,288,274,22,22,http://10.240.4.179/api/issues?ordering=-creation_date,321,0,3
+1631775639347,23,Issues list-1,200,OK,Thread Group 1-43,text,true,,622,275,22,22,http://10.240.4.179/api/issues/?ordering=-creation_date,23,0,0
+1631775638832,545,Random article,200,OK,Thread Group 1-29,text,true,,37019,531,22,22,http://10.240.4.179/api/articles/33pRxE2dtUHP/,286,0,0
+1631775638832,286,Random article-0,301,Moved Permanently,Thread Group 1-29,text,true,,279,265,22,22,http://10.240.4.179/api/articles/33pRxE2dtUHP,286,0,0
+1631775639118,259,Random article-1,200,OK,Thread Group 1-29,text,true,,36740,266,22,22,http://10.240.4.179/api/articles/33pRxE2dtUHP/,257,0,0
+1631775639365,34,Random article,200,OK,Thread Group 1-30,text,true,,30292,531,23,23,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,7,0,0
+1631775639365,7,Random article-0,301,Moved Permanently,Thread Group 1-30,text,true,,279,265,23,23,http://10.240.4.179/api/articles/4yxHGiqXYRbX,7,0,0
+1631775639372,27,Random article-1,200,OK,Thread Group 1-30,text,true,,30013,266,23,23,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,27,0,0
+1631775639366,59,Random article,200,OK,Thread Group 1-40,text,true,,35081,531,23,23,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,6,0,0
+1631775639366,6,Random article-0,301,Moved Permanently,Thread Group 1-40,text,true,,279,265,23,23,http://10.240.4.179/api/articles/WBqfZzfi7nHK,6,0,0
+1631775639372,53,Random article-1,200,OK,Thread Group 1-40,text,true,,34802,266,23,23,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,53,0,0
+1631775639370,65,Issue jdh001,200,OK,Thread Group 1-43,text,true,,750,515,24,24,http://10.240.4.179/api/issues/jdh001/,5,0,0
+1631775639370,5,Issue jdh001-0,301,Moved Permanently,Thread Group 1-43,text,true,,271,257,24,24,http://10.240.4.179/api/issues/jdh001,5,0,0
+1631775639375,60,Issue jdh001-1,200,OK,Thread Group 1-43,text,true,,479,258,24,24,http://10.240.4.179/api/issues/jdh001/,60,0,0
+1631775638870,585,Raw github,200,OK,Thread Group 1-25,text,true,,14088282,319,24,24,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,3,0,0
+1631775639141,331,Issue jdh001,200,OK,Thread Group 1-42,text,true,,750,515,23,23,http://10.240.4.179/api/issues/jdh001/,11,0,0
+1631775639141,11,Issue jdh001-0,301,Moved Permanently,Thread Group 1-42,text,true,,271,257,23,23,http://10.240.4.179/api/issues/jdh001,11,0,0
+1631775639152,320,Issue jdh001-1,200,OK,Thread Group 1-42,text,true,,479,258,23,23,http://10.240.4.179/api/issues/jdh001/,320,0,0
+1631775639151,329,Articles's list jdh001,200,OK,Thread Group 1-34,text,true,,224350,264,24,24,http://10.240.4.179/api/articles/?pid=jdh001,314,0,0
+1631775638841,645,Issue jdh001,200,OK,Thread Group 1-36,text,true,,750,515,24,24,http://10.240.4.179/api/issues/jdh001/,392,0,0
+1631775638841,392,Issue jdh001-0,301,Moved Permanently,Thread Group 1-36,text,true,,271,257,24,24,http://10.240.4.179/api/issues/jdh001,392,0,0
+1631775639234,252,Issue jdh001-1,200,OK,Thread Group 1-36,text,true,,479,258,24,24,http://10.240.4.179/api/issues/jdh001/,252,0,0
+1631775639230,268,Issues list,200,OK,Thread Group 1-47,text,true,,910,549,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,6,0,2
+1631775639230,6,Issues list-0,301,Moved Permanently,Thread Group 1-47,text,true,,288,274,24,24,http://10.240.4.179/api/issues?ordering=-creation_date,6,0,2
+1631775639236,262,Issues list-1,200,OK,Thread Group 1-47,text,true,,622,275,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,262,0,0
+1631775638931,577,Issues list,200,OK,Thread Group 1-41,text,true,,910,549,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,303,0,2
+1631775638931,303,Issues list-0,301,Moved Permanently,Thread Group 1-41,text,true,,288,274,24,24,http://10.240.4.179/api/issues?ordering=-creation_date,303,0,2
+1631775639235,273,Issues list-1,200,OK,Thread Group 1-41,text,true,,622,275,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,273,0,0
+1631775639130,404,Random article,200,OK,Thread Group 1-33,text,true,,29182,531,25,25,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,247,0,0
+1631775639130,247,Random article-0,301,Moved Permanently,Thread Group 1-33,text,true,,279,265,25,25,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,247,0,0
+1631775639377,157,Random article-1,200,OK,Thread Group 1-33,text,true,,28903,266,25,25,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,155,0,0
+1631775639127,416,Issues list,200,OK,Thread Group 1-45,text,true,,910,549,25,25,http://10.240.4.179/api/issues/?ordering=-creation_date,251,0,3
+1631775639127,251,Issues list-0,301,Moved Permanently,Thread Group 1-45,text,true,,288,274,25,25,http://10.240.4.179/api/issues?ordering=-creation_date,251,0,3
+1631775639378,165,Issues list-1,200,OK,Thread Group 1-45,text,true,,622,275,25,25,http://10.240.4.179/api/issues/?ordering=-creation_date,165,0,0
+1631775639133,437,Raw github,200,OK,Thread Group 1-31,text,true,,10203231,314,25,25,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,3,0,0
+1631775639244,357,Articles's list jdh001,200,OK,Thread Group 1-37,text,true,,224350,264,25,25,http://10.240.4.179/api/articles/?pid=jdh001,342,0,0
+1631775639534,76,Raw github,200,OK,Thread Group 1-33,text,true,,1143276,337,25,25,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,2,0,0
+1631775639436,208,Articles's list jdh001,200,OK,Thread Group 1-43,text,true,,224350,264,25,25,http://10.240.4.179/api/articles/?pid=jdh001,192,0,0
+1631775639247,405,Random article,200,OK,Thread Group 1-28,text,true,,30292,531,25,25,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,344,0,0
+1631775639247,344,Random article-0,301,Moved Permanently,Thread Group 1-28,text,true,,279,265,25,25,http://10.240.4.179/api/articles/4yxHGiqXYRbX,344,0,0
+1631775639591,61,Random article-1,200,OK,Thread Group 1-28,text,true,,30013,266,25,25,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,59,0,0
+1631775639603,74,Random article,200,OK,Thread Group 1-37,text,true,,11947,531,25,25,http://10.240.4.179/api/articles/9HcfToh7EYm8/,49,0,0
+1631775639603,49,Random article-0,301,Moved Permanently,Thread Group 1-37,text,true,,279,265,25,25,http://10.240.4.179/api/articles/9HcfToh7EYm8,49,0,0
+1631775639652,25,Random article-1,200,OK,Thread Group 1-37,text,true,,11668,266,25,25,http://10.240.4.179/api/articles/9HcfToh7EYm8/,25,0,0
+1631775639116,566,Issue jdh001,200,OK,Thread Group 1-38,text,true,,750,515,26,26,http://10.240.4.179/api/issues/jdh001/,235,0,0
+1631775639116,235,Issue jdh001-0,301,Moved Permanently,Thread Group 1-38,text,true,,271,257,26,26,http://10.240.4.179/api/issues/jdh001,235,0,0
+1631775639351,331,Issue jdh001-1,200,OK,Thread Group 1-38,text,true,,479,258,26,26,http://10.240.4.179/api/issues/jdh001/,331,0,0
+1631775639246,442,Articles's list jdh001,200,OK,Thread Group 1-35,text,true,,224350,264,26,26,http://10.240.4.179/api/articles/?pid=jdh001,425,0,0
+1631775639328,365,Issues list,200,OK,Thread Group 1-49,text,true,,910,549,26,26,http://10.240.4.179/api/issues/?ordering=-creation_date,23,0,4
+1631775639328,23,Issues list-0,301,Moved Permanently,Thread Group 1-49,text,true,,288,274,26,26,http://10.240.4.179/api/issues?ordering=-creation_date,23,0,4
+1631775639351,342,Issues list-1,200,OK,Thread Group 1-49,text,true,,622,275,26,26,http://10.240.4.179/api/issues/?ordering=-creation_date,342,0,0
+1631775639278,426,Issues list,200,OK,Thread Group 1-48,text,true,,910,549,26,26,http://10.240.4.179/api/issues/?ordering=-creation_date,73,0,2
+1631775639278,73,Issues list-0,301,Moved Permanently,Thread Group 1-48,text,true,,288,274,26,26,http://10.240.4.179/api/issues?ordering=-creation_date,73,0,2
+1631775639351,353,Issues list-1,200,OK,Thread Group 1-48,text,true,,622,275,26,26,http://10.240.4.179/api/issues/?ordering=-creation_date,353,0,0
+1631775639400,319,Raw github,200,OK,Thread Group 1-30,text,true,,9297333,335,26,26,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,2,0,0
+1631775639377,348,Raw github,200,OK,Thread Group 1-29,text,true,,10203231,314,25,25,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,3,0,0
+1631775639426,301,Raw github,200,OK,Thread Group 1-40,text,true,,6779253,347,24,24,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-WBqfZzfi7nHK/main/scripts/Digital_epigraphy_cite2c_biblio.ipynb,2,0,0
+1631775639117,610,Random article,200,OK,Thread Group 1-39,text,true,,19120,531,24,24,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,234,0,0
+1631775639117,234,Random article-0,301,Moved Permanently,Thread Group 1-39,text,true,,279,265,24,24,http://10.240.4.179/api/articles/SLCj9T3MsrEk,234,0,0
+1631775639351,376,Random article-1,200,OK,Thread Group 1-39,text,true,,18841,266,24,24,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,375,0,0
+1631775639363,428,Issue jdh001,200,OK,Thread Group 1-44,text,true,,750,515,25,25,http://10.240.4.179/api/issues/jdh001/,363,0,0
+1631775639363,363,Issue jdh001-0,301,Moved Permanently,Thread Group 1-44,text,true,,271,257,25,25,http://10.240.4.179/api/issues/jdh001,363,0,0
+1631775639726,65,Issue jdh001-1,200,OK,Thread Group 1-44,text,true,,479,258,25,25,http://10.240.4.179/api/issues/jdh001/,65,0,0
+1631775639682,109,Articles's list jdh001,200,OK,Thread Group 1-38,text,true,,224350,264,25,25,http://10.240.4.179/api/articles/?pid=jdh001,96,0,0
+1631775639727,76,Raw github,200,OK,Thread Group 1-39,text,true,,1847661,331,25,25,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,4,0,0
+1631775639427,377,Issues list,200,OK,Thread Group 1-51,text,true,,910,549,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,301,0,3
+1631775639427,301,Issues list-0,301,Moved Permanently,Thread Group 1-51,text,true,,288,274,24,24,http://10.240.4.179/api/issues?ordering=-creation_date,301,0,3
+1631775639728,76,Issues list-1,200,OK,Thread Group 1-51,text,true,,622,275,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,76,0,0
+1631775639200,620,Issue jdh001,200,OK,Thread Group 1-46,text,true,,750,515,24,24,http://10.240.4.179/api/issues/jdh001/,275,0,0
+1631775639200,275,Issue jdh001-0,301,Moved Permanently,Thread Group 1-46,text,true,,271,257,24,24,http://10.240.4.179/api/issues/jdh001,275,0,0
+1631775639475,345,Issue jdh001-1,200,OK,Thread Group 1-46,text,true,,479,258,24,24,http://10.240.4.179/api/issues/jdh001/,345,0,0
+1631775639472,350,Articles's list jdh001,200,OK,Thread Group 1-42,text,true,,224350,264,24,24,http://10.240.4.179/api/articles/?pid=jdh001,335,0,0
+1631775639690,141,Random article,200,OK,Thread Group 1-35,text,true,,19120,531,25,25,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,92,0,0
+1631775639690,92,Random article-0,301,Moved Permanently,Thread Group 1-35,text,true,,279,265,25,25,http://10.240.4.179/api/articles/SLCj9T3MsrEk,92,0,0
+1631775639783,48,Random article-1,200,OK,Thread Group 1-35,text,true,,18841,266,25,25,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,48,0,0
+1631775639678,161,Raw github,200,OK,Thread Group 1-37,text,true,,3270289,325,25,25,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-9HcfToh7EYm8/main/dialectsofdiscord.ipynb,3,0,0
+1631775639679,164,Issues list,200,OK,Thread Group 1-56,text,true,,910,549,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,103,0,2
+1631775639679,103,Issues list-0,301,Moved Permanently,Thread Group 1-56,text,true,,288,274,24,24,http://10.240.4.179/api/issues?ordering=-creation_date,103,0,2
+1631775639783,60,Issues list-1,200,OK,Thread Group 1-56,text,true,,622,275,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,60,0,0
+1631775639832,66,Raw github,200,OK,Thread Group 1-35,text,true,,1847661,331,25,25,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,4,0,0
+1631775639486,420,Articles's list jdh001,200,OK,Thread Group 1-36,text,true,,224350,264,24,24,http://10.240.4.179/api/articles/?pid=jdh001,407,0,0
+1631775639380,531,Issues list,200,OK,Thread Group 1-50,text,true,,910,549,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,167,0,2
+1631775639380,167,Issues list-0,301,Moved Permanently,Thread Group 1-50,text,true,,288,274,24,24,http://10.240.4.179/api/issues?ordering=-creation_date,167,0,2
+1631775639547,364,Issues list-1,200,OK,Thread Group 1-50,text,true,,622,275,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,364,0,0
+1631775639581,339,Issues list,200,OK,Thread Group 1-54,text,true,,910,549,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,49,0,4
+1631775639581,49,Issues list-0,301,Moved Permanently,Thread Group 1-54,text,true,,288,274,24,24,http://10.240.4.179/api/issues?ordering=-creation_date,49,0,4
+1631775639630,290,Issues list-1,200,OK,Thread Group 1-54,text,true,,622,275,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,290,0,0
+1631775639653,277,Raw github,200,OK,Thread Group 1-28,text,true,,9297333,335,25,25,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,4,0,0
+1631775639530,405,Issues list,200,OK,Thread Group 1-53,text,true,,910,549,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,368,0,3
+1631775639530,368,Issues list-0,301,Moved Permanently,Thread Group 1-53,text,true,,288,274,24,24,http://10.240.4.179/api/issues?ordering=-creation_date,368,0,3
+1631775639898,37,Issues list-1,200,OK,Thread Group 1-53,text,true,,622,275,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,37,0,0
+1631775639732,205,Issues list,200,OK,Thread Group 1-57,text,true,,910,549,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,72,0,2
+1631775639732,72,Issues list-0,301,Moved Permanently,Thread Group 1-57,text,true,,288,274,24,24,http://10.240.4.179/api/issues?ordering=-creation_date,72,0,2
+1631775639804,133,Issues list-1,200,OK,Thread Group 1-57,text,true,,622,275,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,133,0,0
+1631775639791,145,Articles's list jdh001,200,OK,Thread Group 1-44,text,true,,224350,264,24,24,http://10.240.4.179/api/articles/?pid=jdh001,134,0,0
+1631775639544,406,Issue jdh001,200,OK,Thread Group 1-45,text,true,,750,515,24,24,http://10.240.4.179/api/issues/jdh001/,354,0,0
+1631775639544,354,Issue jdh001-0,301,Moved Permanently,Thread Group 1-45,text,true,,271,257,24,24,http://10.240.4.179/api/issues/jdh001,354,0,0
+1631775639899,51,Issue jdh001-1,200,OK,Thread Group 1-45,text,true,,479,258,24,24,http://10.240.4.179/api/issues/jdh001/,51,0,0
+1631775639631,328,Issues list,200,OK,Thread Group 1-55,text,true,,910,549,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,289,0,3
+1631775639631,289,Issues list-0,301,Moved Permanently,Thread Group 1-55,text,true,,288,274,24,24,http://10.240.4.179/api/issues?ordering=-creation_date,289,0,3
+1631775639920,39,Issues list-1,200,OK,Thread Group 1-55,text,true,,622,275,24,24,http://10.240.4.179/api/issues/?ordering=-creation_date,39,0,0
+1631775639483,479,Random article,200,OK,Thread Group 1-34,text,true,,35081,531,24,24,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,337,0,0
+1631775639483,337,Random article-0,301,Moved Permanently,Thread Group 1-34,text,true,,279,265,24,24,http://10.240.4.179/api/articles/WBqfZzfi7nHK,337,0,0
+1631775639820,142,Random article-1,200,OK,Thread Group 1-34,text,true,,34802,266,24,24,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,141,0,0
+1631775639646,334,Random article,200,OK,Thread Group 1-43,text,true,,11947,531,25,25,http://10.240.4.179/api/articles/9HcfToh7EYm8/,274,0,0
+1631775639646,274,Random article-0,301,Moved Permanently,Thread Group 1-43,text,true,,279,265,25,25,http://10.240.4.179/api/articles/9HcfToh7EYm8,274,0,0
+1631775639920,60,Random article-1,200,OK,Thread Group 1-43,text,true,,11668,266,25,25,http://10.240.4.179/api/articles/9HcfToh7EYm8/,60,0,0
+1631775639693,298,Issue jdh001,200,OK,Thread Group 1-49,text,true,,750,515,25,25,http://10.240.4.179/api/issues/jdh001/,228,0,0
+1631775639693,228,Issue jdh001-0,301,Moved Permanently,Thread Group 1-49,text,true,,271,257,25,25,http://10.240.4.179/api/issues/jdh001,228,0,0
+1631775639921,70,Issue jdh001-1,200,OK,Thread Group 1-49,text,true,,479,258,25,25,http://10.240.4.179/api/issues/jdh001/,70,0,0
+1631775639778,221,Issues list,200,OK,Thread Group 1-58,text,true,,910,549,25,25,http://10.240.4.179/api/issues/?ordering=-creation_date,145,0,4
+1631775639778,145,Issues list-0,301,Moved Permanently,Thread Group 1-58,text,true,,288,274,25,25,http://10.240.4.179/api/issues?ordering=-creation_date,145,0,4
+1631775639923,76,Issues list-1,200,OK,Thread Group 1-58,text,true,,622,275,25,25,http://10.240.4.179/api/issues/?ordering=-creation_date,76,0,0
+1631775639705,302,Issue jdh001,200,OK,Thread Group 1-48,text,true,,750,515,25,25,http://10.240.4.179/api/issues/jdh001/,218,0,0
+1631775639705,218,Issue jdh001-0,301,Moved Permanently,Thread Group 1-48,text,true,,271,257,25,25,http://10.240.4.179/api/issues/jdh001,218,0,0
+1631775639923,84,Issue jdh001-1,200,OK,Thread Group 1-48,text,true,,479,258,25,25,http://10.240.4.179/api/issues/jdh001/,84,0,0
+1631775639794,233,Random article,200,OK,Thread Group 1-38,text,true,,35081,531,26,26,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,131,0,0
+1631775639794,131,Random article-0,301,Moved Permanently,Thread Group 1-38,text,true,,279,265,26,26,http://10.240.4.179/api/articles/WBqfZzfi7nHK,131,0,0
+1631775639925,102,Random article-1,200,OK,Thread Group 1-38,text,true,,34802,266,26,26,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,102,0,0
+1631775639804,235,Issue jdh001,200,OK,Thread Group 1-51,text,true,,750,515,26,26,http://10.240.4.179/api/issues/jdh001/,134,0,0
+1631775639804,134,Issue jdh001-0,301,Moved Permanently,Thread Group 1-51,text,true,,271,257,26,26,http://10.240.4.179/api/issues/jdh001,134,0,0
+1631775639938,101,Issue jdh001-1,200,OK,Thread Group 1-51,text,true,,479,258,26,26,http://10.240.4.179/api/issues/jdh001/,101,0,0
+1631775639479,577,Issues list,200,OK,Thread Group 1-52,text,true,,910,549,26,26,http://10.240.4.179/api/issues/?ordering=-creation_date,341,0,3
+1631775639920,136,Issue jdh001,200,OK,Thread Group 1-54,text,true,,750,515,26,26,http://10.240.4.179/api/issues/jdh001/,60,0,0
+1631775639479,341,Issues list-0,301,Moved Permanently,Thread Group 1-52,text,true,,288,274,26,26,http://10.240.4.179/api/issues?ordering=-creation_date,341,0,3
+1631775639920,60,Issue jdh001-0,301,Moved Permanently,Thread Group 1-54,text,true,,271,257,26,26,http://10.240.4.179/api/issues/jdh001,60,0,0
+1631775639820,236,Issues list-1,200,OK,Thread Group 1-52,text,true,,622,275,26,26,http://10.240.4.179/api/issues/?ordering=-creation_date,236,0,0
+1631775639980,76,Issue jdh001-1,200,OK,Thread Group 1-54,text,true,,479,258,26,26,http://10.240.4.179/api/issues/jdh001/,76,0,0
+1631775639820,237,Articles's list jdh001,200,OK,Thread Group 1-46,text,true,,224350,264,26,26,http://10.240.4.179/api/articles/?pid=jdh001,219,0,0
+1631775639498,572,Issue jdh001,200,OK,Thread Group 1-47,text,true,,750,515,26,26,http://10.240.4.179/api/issues/jdh001/,396,0,0
+1631775639498,396,Issue jdh001-0,301,Moved Permanently,Thread Group 1-47,text,true,,271,257,26,26,http://10.240.4.179/api/issues/jdh001,396,0,0
+1631775639894,176,Issue jdh001-1,200,OK,Thread Group 1-47,text,true,,479,258,26,26,http://10.240.4.179/api/issues/jdh001/,176,0,0
+1631775639981,97,Raw github,200,OK,Thread Group 1-43,text,true,,3270289,325,26,26,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-9HcfToh7EYm8/main/dialectsofdiscord.ipynb,2,0,0
+1631775639509,569,Issue jdh001,200,OK,Thread Group 1-41,text,true,,750,515,25,25,http://10.240.4.179/api/issues/jdh001/,388,0,0
+1631775639509,388,Issue jdh001-0,301,Moved Permanently,Thread Group 1-41,text,true,,271,257,25,25,http://10.240.4.179/api/issues/jdh001,388,0,0
+1631775639897,181,Issue jdh001-1,200,OK,Thread Group 1-41,text,true,,479,258,25,25,http://10.240.4.179/api/issues/jdh001/,181,0,0
+1631775639912,178,Issue jdh001,200,OK,Thread Group 1-50,text,true,,750,515,26,26,http://10.240.4.179/api/issues/jdh001/,38,0,0
+1631775639912,38,Issue jdh001-0,301,Moved Permanently,Thread Group 1-50,text,true,,271,257,26,26,http://10.240.4.179/api/issues/jdh001,38,0,0
+1631775639950,140,Issue jdh001-1,200,OK,Thread Group 1-50,text,true,,479,258,26,26,http://10.240.4.179/api/issues/jdh001/,140,0,0
+1631775639964,183,Raw github,200,OK,Thread Group 1-34,text,true,,6779253,347,27,27,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-WBqfZzfi7nHK/main/scripts/Digital_epigraphy_cite2c_biblio.ipynb,1,0,0
+1631775639991,155,Articles's list jdh001,200,OK,Thread Group 1-49,text,true,,224350,264,27,27,http://10.240.4.179/api/articles/?pid=jdh001,143,0,0
+1631775639935,247,Issue jdh001,200,OK,Thread Group 1-53,text,true,,750,515,27,27,http://10.240.4.179/api/issues/jdh001/,93,0,0
+1631775639935,93,Issue jdh001-0,301,Moved Permanently,Thread Group 1-53,text,true,,271,257,27,27,http://10.240.4.179/api/issues/jdh001,93,0,0
+1631775640028,154,Issue jdh001-1,200,OK,Thread Group 1-53,text,true,,479,258,27,27,http://10.240.4.179/api/issues/jdh001/,154,0,0
+1631775639950,232,Articles's list jdh001,200,OK,Thread Group 1-45,text,true,,224350,264,27,27,http://10.240.4.179/api/articles/?pid=jdh001,223,0,0
+1631775639977,212,Issues list,200,OK,Thread Group 1-62,text,true,,910,549,27,27,http://10.240.4.179/api/issues/?ordering=-creation_date,79,0,4
+1631775639977,79,Issues list-0,301,Moved Permanently,Thread Group 1-62,text,true,,288,274,27,27,http://10.240.4.179/api/issues?ordering=-creation_date,79,0,4
+1631775640056,133,Issues list-1,200,OK,Thread Group 1-62,text,true,,622,275,27,27,http://10.240.4.179/api/issues/?ordering=-creation_date,133,0,0
+1631775640028,169,Raw github,200,OK,Thread Group 1-38,text,true,,6779253,347,27,27,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-WBqfZzfi7nHK/main/scripts/Digital_epigraphy_cite2c_biblio.ipynb,3,0,0
+1631775640007,215,Articles's list jdh001,200,OK,Thread Group 1-48,text,true,,224350,264,26,26,http://10.240.4.179/api/articles/?pid=jdh001,205,0,0
+1631775639937,289,Issue jdh001,200,OK,Thread Group 1-57,text,true,,750,515,27,27,http://10.240.4.179/api/issues/jdh001/,94,0,0
+1631775639937,94,Issue jdh001-0,301,Moved Permanently,Thread Group 1-57,text,true,,271,257,27,27,http://10.240.4.179/api/issues/jdh001,94,0,0
+1631775640031,195,Issue jdh001-1,200,OK,Thread Group 1-57,text,true,,479,258,27,27,http://10.240.4.179/api/issues/jdh001/,195,0,0
+1631775640056,206,Articles's list jdh001,200,OK,Thread Group 1-54,text,true,,224350,264,27,27,http://10.240.4.179/api/articles/?pid=jdh001,200,0,0
+1631775639824,454,Random article,200,OK,Thread Group 1-42,text,true,,41871,531,28,28,http://10.240.4.179/api/articles/JJszM3GwAYDs/,232,0,0
+1631775639824,232,Random article-0,301,Moved Permanently,Thread Group 1-42,text,true,,279,265,28,28,http://10.240.4.179/api/articles/JJszM3GwAYDs,232,0,0
+1631775640056,222,Random article-1,200,OK,Thread Group 1-42,text,true,,41592,266,28,28,http://10.240.4.179/api/articles/JJszM3GwAYDs/,221,0,0
+1631775639843,442,Issue jdh001,200,OK,Thread Group 1-56,text,true,,750,515,28,28,http://10.240.4.179/api/issues/jdh001/,213,0,0
+1631775639843,213,Issue jdh001-0,301,Moved Permanently,Thread Group 1-56,text,true,,271,257,28,28,http://10.240.4.179/api/issues/jdh001,213,0,0
+1631775640056,229,Issue jdh001-1,200,OK,Thread Group 1-56,text,true,,479,258,28,28,http://10.240.4.179/api/issues/jdh001/,229,0,0
+1631775639880,413,Issues list,200,OK,Thread Group 1-60,text,true,,910,549,28,28,http://10.240.4.179/api/issues/?ordering=-creation_date,177,0,4
+1631775639880,177,Issues list-0,301,Moved Permanently,Thread Group 1-60,text,true,,288,274,28,28,http://10.240.4.179/api/issues?ordering=-creation_date,177,0,4
+1631775640057,236,Issues list-1,200,OK,Thread Group 1-60,text,true,,622,275,28,28,http://10.240.4.179/api/issues/?ordering=-creation_date,236,0,0
+1631775639959,337,Issue jdh001,200,OK,Thread Group 1-55,text,true,,750,515,28,28,http://10.240.4.179/api/issues/jdh001/,85,0,0
+1631775639959,85,Issue jdh001-0,301,Moved Permanently,Thread Group 1-55,text,true,,271,257,28,28,http://10.240.4.179/api/issues/jdh001,85,0,0
+1631775640044,252,Issue jdh001-1,200,OK,Thread Group 1-55,text,true,,479,258,28,28,http://10.240.4.179/api/issues/jdh001/,252,0,0
+1631775640039,255,Articles's list jdh001,200,OK,Thread Group 1-51,text,true,,224350,264,28,28,http://10.240.4.179/api/articles/?pid=jdh001,247,0,0
+1631775639938,378,Random article,200,OK,Thread Group 1-44,text,true,,30292,531,28,28,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,106,0,0
+1631775639938,106,Random article-0,301,Moved Permanently,Thread Group 1-44,text,true,,279,265,28,28,http://10.240.4.179/api/articles/4yxHGiqXYRbX,106,0,0
+1631775640044,272,Random article-1,200,OK,Thread Group 1-44,text,true,,30013,266,28,28,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,271,0,0
+1631775639831,491,Issues list,200,OK,Thread Group 1-59,text,true,,910,549,28,28,http://10.240.4.179/api/issues/?ordering=-creation_date,225,0,2
+1631775639831,225,Issues list-0,301,Moved Permanently,Thread Group 1-59,text,true,,288,274,28,28,http://10.240.4.179/api/issues?ordering=-creation_date,225,0,2
+1631775640056,266,Issues list-1,200,OK,Thread Group 1-59,text,true,,622,275,28,28,http://10.240.4.179/api/issues/?ordering=-creation_date,266,0,0
+1631775639928,404,Issues list,200,OK,Thread Group 1-61,text,true,,910,549,29,29,http://10.240.4.179/api/issues/?ordering=-creation_date,154,0,4
+1631775639928,154,Issues list-0,301,Moved Permanently,Thread Group 1-61,text,true,,288,274,29,29,http://10.240.4.179/api/issues?ordering=-creation_date,154,0,4
+1631775640082,250,Issues list-1,200,OK,Thread Group 1-61,text,true,,622,275,29,29,http://10.240.4.179/api/issues/?ordering=-creation_date,250,0,0
+1631775640280,56,Raw github,200,OK,Thread Group 1-42,text,true,,2038004,344,29,29,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,5,0,0
+1631775640070,307,Articles's list jdh001,200,OK,Thread Group 1-47,text,true,,224350,264,28,28,http://10.240.4.179/api/articles/?pid=jdh001,297,0,0
+1631775639908,482,Random article,200,OK,Thread Group 1-36,text,true,,20524,531,29,29,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,172,0,0
+1631775639908,172,Random article-0,301,Moved Permanently,Thread Group 1-36,text,true,,279,265,29,29,http://10.240.4.179/api/articles/8pGzPyTDKBjR,172,0,0
+1631775640080,310,Random article-1,200,OK,Thread Group 1-36,text,true,,20245,266,29,29,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,309,0,0
+1631775640056,370,Issue jdh001,200,OK,Thread Group 1-52,text,true,,750,515,30,30,http://10.240.4.179/api/issues/jdh001/,134,0,0
+1631775640056,134,Issue jdh001-0,301,Moved Permanently,Thread Group 1-52,text,true,,271,257,30,30,http://10.240.4.179/api/issues/jdh001,134,0,0
+1631775640191,235,Issue jdh001-1,200,OK,Thread Group 1-52,text,true,,479,258,30,30,http://10.240.4.179/api/issues/jdh001/,235,0,0
+1631775640182,243,Articles's list jdh001,200,OK,Thread Group 1-53,text,true,,224350,264,29,29,http://10.240.4.179/api/articles/?pid=jdh001,227,0,0
+1631775640027,412,Issues list,200,OK,Thread Group 1-63,text,true,,910,549,30,30,http://10.240.4.179/api/issues/?ordering=-creation_date,187,0,2
+1631775640027,187,Issues list-0,301,Moved Permanently,Thread Group 1-63,text,true,,288,274,30,30,http://10.240.4.179/api/issues?ordering=-creation_date,187,0,2
+1631775640215,224,Issues list-1,200,OK,Thread Group 1-63,text,true,,622,275,30,30,http://10.240.4.179/api/issues/?ordering=-creation_date,224,0,0
+1631775640318,136,Raw github,200,OK,Thread Group 1-44,text,true,,9297333,335,30,30,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,3,0,0
+1631775640079,386,Articles's list jdh001,200,OK,Thread Group 1-41,text,true,,224350,264,29,29,http://10.240.4.179/api/articles/?pid=jdh001,379,0,0
+1631775640226,304,Articles's list jdh001,200,OK,Thread Group 1-57,text,true,,224350,264,31,31,http://10.240.4.179/api/articles/?pid=jdh001,294,0,0
+1631775639999,540,Issue jdh001,200,OK,Thread Group 1-58,text,true,,750,515,31,31,http://10.240.4.179/api/issues/jdh001/,137,0,0
+1631775639999,137,Issue jdh001-0,301,Moved Permanently,Thread Group 1-58,text,true,,271,257,31,31,http://10.240.4.179/api/issues/jdh001,137,0,0
+1631775640136,403,Issue jdh001-1,200,OK,Thread Group 1-58,text,true,,479,258,31,31,http://10.240.4.179/api/issues/jdh001/,403,0,0
+1631775640091,448,Articles's list jdh001,200,OK,Thread Group 1-50,text,true,,224350,264,31,31,http://10.240.4.179/api/articles/?pid=jdh001,436,0,0
+1631775640060,493,Random article,200,OK,Thread Group 1-46,text,true,,19120,531,31,31,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,236,0,0
+1631775640060,236,Random article-0,301,Moved Permanently,Thread Group 1-46,text,true,,279,265,31,31,http://10.240.4.179/api/articles/SLCj9T3MsrEk,236,0,0
+1631775640296,257,Random article-1,200,OK,Thread Group 1-46,text,true,,18841,266,31,31,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,255,0,0
+1631775640391,180,Raw github,200,OK,Thread Group 1-36,text,true,,14088282,319,31,31,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,1,0,0
+1631775640189,437,Issue jdh001,200,OK,Thread Group 1-62,text,true,,750,515,31,31,http://10.240.4.179/api/issues/jdh001/,224,0,0
+1631775640189,224,Issue jdh001-0,301,Moved Permanently,Thread Group 1-62,text,true,,271,257,31,31,http://10.240.4.179/api/issues/jdh001,224,0,0
+1631775640413,213,Issue jdh001-1,200,OK,Thread Group 1-62,text,true,,479,258,31,31,http://10.240.4.179/api/issues/jdh001/,213,0,0
+1631775640297,328,Articles's list jdh001,200,OK,Thread Group 1-55,text,true,,224350,264,31,31,http://10.240.4.179/api/articles/?pid=jdh001,318,0,0
+1631775640285,341,Articles's list jdh001,200,OK,Thread Group 1-56,text,true,,224350,264,31,31,http://10.240.4.179/api/articles/?pid=jdh001,331,0,0
+1631775640127,507,Issues list,200,OK,Thread Group 1-65,text,true,,910,549,32,32,http://10.240.4.179/api/issues/?ordering=-creation_date,206,0,3
+1631775640127,206,Issues list-0,301,Moved Permanently,Thread Group 1-65,text,true,,288,274,32,32,http://10.240.4.179/api/issues?ordering=-creation_date,206,0,3
+1631775640333,301,Issues list-1,200,OK,Thread Group 1-65,text,true,,622,275,32,32,http://10.240.4.179/api/issues/?ordering=-creation_date,301,0,0
+1631775640148,505,Random article,200,OK,Thread Group 1-49,text,true,,20524,531,32,32,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,186,0,0
+1631775640148,186,Random article-0,301,Moved Permanently,Thread Group 1-49,text,true,,279,265,32,32,http://10.240.4.179/api/articles/8pGzPyTDKBjR,186,0,0
+1631775640334,319,Random article-1,200,OK,Thread Group 1-49,text,true,,20245,266,32,32,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,318,0,0
+1631775640553,103,Raw github,200,OK,Thread Group 1-46,text,true,,1847661,331,32,32,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,5,0,0
+1631775640176,485,Issues list,200,OK,Thread Group 1-66,text,true,,910,549,31,31,http://10.240.4.179/api/issues/?ordering=-creation_date,158,0,2
+1631775640176,158,Issues list-0,301,Moved Permanently,Thread Group 1-66,text,true,,288,274,31,31,http://10.240.4.179/api/issues?ordering=-creation_date,158,0,2
+1631775640334,327,Issues list-1,200,OK,Thread Group 1-66,text,true,,622,275,31,31,http://10.240.4.179/api/issues/?ordering=-creation_date,327,0,0
+1631775640185,499,Random article,200,OK,Thread Group 1-45,text,true,,41871,531,32,32,http://10.240.4.179/api/articles/JJszM3GwAYDs/,226,0,0
+1631775640185,226,Random article-0,301,Moved Permanently,Thread Group 1-45,text,true,,279,265,32,32,http://10.240.4.179/api/articles/JJszM3GwAYDs,226,0,0
+1631775640411,273,Random article-1,200,OK,Thread Group 1-45,text,true,,41592,266,32,32,http://10.240.4.179/api/articles/JJszM3GwAYDs/,272,0,0
+1631775640426,274,Articles's list jdh001,200,OK,Thread Group 1-52,text,true,,224350,264,32,32,http://10.240.4.179/api/articles/?pid=jdh001,266,0,0
+1631775640080,624,Issues list,200,OK,Thread Group 1-64,text,true,,910,549,32,32,http://10.240.4.179/api/issues/?ordering=-creation_date,378,0,4
+1631775640080,378,Issues list-0,301,Moved Permanently,Thread Group 1-64,text,true,,288,274,32,32,http://10.240.4.179/api/issues?ordering=-creation_date,378,0,4
+1631775640458,246,Issues list-1,200,OK,Thread Group 1-64,text,true,,622,275,32,32,http://10.240.4.179/api/issues/?ordering=-creation_date,246,0,0
+1631775640293,423,Issue jdh001,200,OK,Thread Group 1-60,text,true,,750,515,32,32,http://10.240.4.179/api/issues/jdh001/,231,0,0
+1631775640293,231,Issue jdh001-0,301,Moved Permanently,Thread Group 1-60,text,true,,271,257,32,32,http://10.240.4.179/api/issues/jdh001,231,0,0
+1631775640524,192,Issue jdh001-1,200,OK,Thread Group 1-60,text,true,,479,258,32,32,http://10.240.4.179/api/issues/jdh001/,192,0,0
+1631775640225,492,Random article,200,OK,Thread Group 1-48,text,true,,37019,531,32,32,http://10.240.4.179/api/articles/33pRxE2dtUHP/,214,0,0
+1631775640225,214,Random article-0,301,Moved Permanently,Thread Group 1-48,text,true,,279,265,32,32,http://10.240.4.179/api/articles/33pRxE2dtUHP,214,0,0
+1631775640439,278,Random article-1,200,OK,Thread Group 1-48,text,true,,36740,266,32,32,http://10.240.4.179/api/articles/33pRxE2dtUHP/,277,0,0
+1631775640685,58,Raw github,200,OK,Thread Group 1-45,text,true,,2038004,344,33,33,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,2,0,0
+1631775640265,482,Random article,200,OK,Thread Group 1-54,text,true,,37019,531,32,32,http://10.240.4.179/api/articles/33pRxE2dtUHP/,259,0,0
+1631775640265,259,Random article-0,301,Moved Permanently,Thread Group 1-54,text,true,,279,265,32,32,http://10.240.4.179/api/articles/33pRxE2dtUHP,259,0,0
+1631775640524,223,Random article-1,200,OK,Thread Group 1-54,text,true,,36740,266,32,32,http://10.240.4.179/api/articles/33pRxE2dtUHP/,222,0,0
+1631775640626,179,Articles's list jdh001,200,OK,Thread Group 1-62,text,true,,224350,264,33,33,http://10.240.4.179/api/articles/?pid=jdh001,168,0,0
+1631775640380,446,Random article,200,OK,Thread Group 1-47,text,true,,29182,531,33,33,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,281,0,0
+1631775640380,281,Random article-0,301,Moved Permanently,Thread Group 1-47,text,true,,279,265,33,33,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,281,0,0
+1631775640661,165,Random article-1,200,OK,Thread Group 1-47,text,true,,28903,266,33,33,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,164,0,0
+1631775640278,558,Issues list,200,OK,Thread Group 1-68,text,true,,910,549,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,261,0,2
+1631775640278,261,Issues list-0,301,Moved Permanently,Thread Group 1-68,text,true,,288,274,34,34,http://10.240.4.179/api/issues?ordering=-creation_date,261,0,2
+1631775640539,297,Issues list-1,200,OK,Thread Group 1-68,text,true,,622,275,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,297,0,0
+1631775640426,411,Issues list,200,OK,Thread Group 1-71,text,true,,910,549,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,257,0,3
+1631775640426,257,Issues list-0,301,Moved Permanently,Thread Group 1-71,text,true,,288,274,34,34,http://10.240.4.179/api/issues?ordering=-creation_date,257,0,3
+1631775640683,154,Issues list-1,200,OK,Thread Group 1-71,text,true,,622,275,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,154,0,0
+1631775640539,298,Articles's list jdh001,200,OK,Thread Group 1-58,text,true,,224350,264,34,34,http://10.240.4.179/api/articles/?pid=jdh001,286,0,0
+1631775640226,617,Issues list,200,OK,Thread Group 1-67,text,true,,910,549,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,313,0,4
+1631775640226,313,Issues list-0,301,Moved Permanently,Thread Group 1-67,text,true,,288,274,34,34,http://10.240.4.179/api/issues?ordering=-creation_date,313,0,4
+1631775640539,304,Issues list-1,200,OK,Thread Group 1-67,text,true,,622,275,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,304,0,0
+1631775640576,271,Issues list,200,OK,Thread Group 1-74,text,true,,910,549,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,140,0,2
+1631775640576,140,Issues list-0,301,Moved Permanently,Thread Group 1-74,text,true,,288,274,34,34,http://10.240.4.179/api/issues?ordering=-creation_date,140,0,2
+1631775640716,131,Issues list-1,200,OK,Thread Group 1-74,text,true,,622,275,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,131,0,0
+1631775640298,567,Random article,200,OK,Thread Group 1-51,text,true,,29182,531,34,34,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,319,0,0
+1631775640298,319,Random article-0,301,Moved Permanently,Thread Group 1-51,text,true,,279,265,34,34,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,319,0,0
+1631775640617,248,Random article-1,200,OK,Thread Group 1-51,text,true,,28903,266,34,34,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,246,0,0
+1631775640323,549,Issue jdh001,200,OK,Thread Group 1-59,text,true,,750,515,34,34,http://10.240.4.179/api/issues/jdh001/,297,0,0
+1631775640323,297,Issue jdh001-0,301,Moved Permanently,Thread Group 1-59,text,true,,271,257,34,34,http://10.240.4.179/api/issues/jdh001,297,0,0
+1631775640620,252,Issue jdh001-1,200,OK,Thread Group 1-59,text,true,,479,258,34,34,http://10.240.4.179/api/issues/jdh001/,252,0,0
+1631775640628,248,Random article,200,OK,Thread Group 1-56,text,true,,20524,531,34,34,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,167,0,0
+1631775640628,167,Random article-0,301,Moved Permanently,Thread Group 1-56,text,true,,279,265,34,34,http://10.240.4.179/api/articles/8pGzPyTDKBjR,167,0,0
+1631775640795,81,Random article-1,200,OK,Thread Group 1-56,text,true,,20245,266,34,34,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,81,0,0
+1631775640827,52,Raw github,200,OK,Thread Group 1-47,text,true,,1143276,337,35,35,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,2,0,0
+1631775640379,502,Issues list,200,OK,Thread Group 1-70,text,true,,910,549,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,241,0,2
+1631775640379,241,Issues list-0,301,Moved Permanently,Thread Group 1-70,text,true,,288,274,34,34,http://10.240.4.179/api/issues?ordering=-creation_date,241,0,2
+1631775640620,261,Issues list-1,200,OK,Thread Group 1-70,text,true,,622,275,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,261,0,0
+1631775640661,225,Issue jdh001,200,OK,Thread Group 1-66,text,true,,750,515,34,34,http://10.240.4.179/api/issues/jdh001/,164,0,0
+1631775640661,164,Issue jdh001-0,301,Moved Permanently,Thread Group 1-66,text,true,,271,257,34,34,http://10.240.4.179/api/issues/jdh001,164,0,0
+1631775640825,61,Issue jdh001-1,200,OK,Thread Group 1-66,text,true,,479,258,34,34,http://10.240.4.179/api/issues/jdh001/,61,0,0
+1631775640328,562,Issues list,200,OK,Thread Group 1-69,text,true,,910,549,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,292,0,2
+1631775640328,292,Issues list-0,301,Moved Permanently,Thread Group 1-69,text,true,,288,274,34,34,http://10.240.4.179/api/issues?ordering=-creation_date,292,0,2
+1631775640620,270,Issues list-1,200,OK,Thread Group 1-69,text,true,,622,275,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,270,0,0
+1631775640677,220,Issues list,200,OK,Thread Group 1-76,text,true,,910,549,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,148,0,4
+1631775640677,148,Issues list-0,301,Moved Permanently,Thread Group 1-76,text,true,,288,274,34,34,http://10.240.4.179/api/issues?ordering=-creation_date,148,0,4
+1631775640825,72,Issues list-1,200,OK,Thread Group 1-76,text,true,,622,275,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,71,0,0
+1631775640332,567,Issue jdh001,200,OK,Thread Group 1-61,text,true,,750,515,34,34,http://10.240.4.179/api/issues/jdh001/,288,0,0
+1631775640332,288,Issue jdh001-0,301,Moved Permanently,Thread Group 1-61,text,true,,271,257,34,34,http://10.240.4.179/api/issues/jdh001,288,0,0
+1631775640620,279,Issue jdh001-1,200,OK,Thread Group 1-61,text,true,,479,258,34,34,http://10.240.4.179/api/issues/jdh001/,279,0,0
+1631775640439,471,Issue jdh001,200,OK,Thread Group 1-63,text,true,,750,515,34,34,http://10.240.4.179/api/issues/jdh001/,256,0,0
+1631775640704,206,Issue jdh001,200,OK,Thread Group 1-64,text,true,,750,515,34,34,http://10.240.4.179/api/issues/jdh001/,133,0,0
+1631775640439,256,Issue jdh001-0,301,Moved Permanently,Thread Group 1-63,text,true,,271,257,34,34,http://10.240.4.179/api/issues/jdh001,256,0,0
+1631775640704,133,Issue jdh001-0,301,Moved Permanently,Thread Group 1-64,text,true,,271,257,34,34,http://10.240.4.179/api/issues/jdh001,133,0,0
+1631775640695,215,Issue jdh001-1,200,OK,Thread Group 1-63,text,true,,479,258,34,34,http://10.240.4.179/api/issues/jdh001/,215,0,0
+1631775640837,73,Issue jdh001-1,200,OK,Thread Group 1-64,text,true,,479,258,34,34,http://10.240.4.179/api/issues/jdh001/,73,0,0
+1631775640866,57,Raw github,200,OK,Thread Group 1-51,text,true,,1143276,337,34,34,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,3,0,0
+1631775640429,507,Random article,200,OK,Thread Group 1-53,text,true,,30292,531,34,34,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,266,0,0
+1631775640429,266,Random article-0,301,Moved Permanently,Thread Group 1-53,text,true,,279,265,34,34,http://10.240.4.179/api/articles/4yxHGiqXYRbX,266,0,0
+1631775640695,241,Random article-1,200,OK,Thread Group 1-53,text,true,,30013,266,34,34,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,239,0,0
+1631775640477,466,Issues list,200,OK,Thread Group 1-72,text,true,,910,549,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,228,0,3
+1631775640477,228,Issues list-0,301,Moved Permanently,Thread Group 1-72,text,true,,288,274,34,34,http://10.240.4.179/api/issues?ordering=-creation_date,228,0,3
+1631775640705,238,Issues list-1,200,OK,Thread Group 1-72,text,true,,622,275,34,34,http://10.240.4.179/api/issues/?ordering=-creation_date,238,0,0
+1631775640468,503,Random article,200,OK,Thread Group 1-41,text,true,,41871,531,34,34,http://10.240.4.179/api/articles/JJszM3GwAYDs/,246,0,0
+1631775640468,246,Random article-0,301,Moved Permanently,Thread Group 1-41,text,true,,279,265,34,34,http://10.240.4.179/api/articles/JJszM3GwAYDs,246,0,0
+1631775640714,257,Random article-1,200,OK,Thread Group 1-41,text,true,,41592,266,34,34,http://10.240.4.179/api/articles/JJszM3GwAYDs/,254,0,0
+1631775640627,366,Random article,200,OK,Thread Group 1-55,text,true,,20524,531,35,35,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,89,0,0
+1631775640627,89,Random article-0,301,Moved Permanently,Thread Group 1-55,text,true,,279,265,35,35,http://10.240.4.179/api/articles/8pGzPyTDKBjR,89,0,0
+1631775640716,277,Random article-1,200,OK,Thread Group 1-55,text,true,,20245,266,35,35,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,276,0,0
+1631775640829,187,Issues list,200,OK,Thread Group 1-79,text,true,,910,549,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,68,0,2
+1631775640829,68,Issues list-0,301,Moved Permanently,Thread Group 1-79,text,true,,288,274,35,35,http://10.240.4.179/api/issues?ordering=-creation_date,68,0,2
+1631775640897,119,Issues list-1,200,OK,Thread Group 1-79,text,true,,622,275,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,119,0,0
+1631775640886,128,Articles's list jdh001,200,OK,Thread Group 1-66,text,true,,224350,264,35,35,http://10.240.4.179/api/articles/?pid=jdh001,114,0,0
+1631775640541,478,Random article,200,OK,Thread Group 1-50,text,true,,30292,531,35,35,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,175,0,0
+1631775640541,175,Random article-0,301,Moved Permanently,Thread Group 1-50,text,true,,279,265,35,35,http://10.240.4.179/api/articles/4yxHGiqXYRbX,175,0,0
+1631775640716,303,Random article-1,200,OK,Thread Group 1-50,text,true,,30013,266,35,35,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,301,0,0
+1631775640897,132,Issue jdh001,200,OK,Thread Group 1-76,text,true,,750,515,36,36,http://10.240.4.179/api/issues/jdh001/,119,0,0
+1631775640897,119,Issue jdh001-0,301,Moved Permanently,Thread Group 1-76,text,true,,271,257,36,36,http://10.240.4.179/api/issues/jdh001,119,0,0
+1631775641016,13,Issue jdh001-1,200,OK,Thread Group 1-76,text,true,,479,258,36,36,http://10.240.4.179/api/issues/jdh001/,13,0,0
+1631775640527,506,Issues list,200,OK,Thread Group 1-73,text,true,,910,549,36,36,http://10.240.4.179/api/issues/?ordering=-creation_date,189,0,2
+1631775640527,189,Issues list-0,301,Moved Permanently,Thread Group 1-73,text,true,,288,274,36,36,http://10.240.4.179/api/issues?ordering=-creation_date,189,0,2
+1631775640716,317,Issues list-1,200,OK,Thread Group 1-73,text,true,,622,275,36,36,http://10.240.4.179/api/issues/?ordering=-creation_date,317,0,0
+1631775640930,113,Issues list,200,OK,Thread Group 1-81,text,true,,910,549,36,36,http://10.240.4.179/api/issues/?ordering=-creation_date,86,0,2
+1631775640930,86,Issues list-0,301,Moved Permanently,Thread Group 1-81,text,true,,288,274,36,36,http://10.240.4.179/api/issues?ordering=-creation_date,86,0,2
+1631775641016,27,Issues list-1,200,OK,Thread Group 1-81,text,true,,622,275,36,36,http://10.240.4.179/api/issues/?ordering=-creation_date,27,0,0
+1631775640944,111,Issue jdh001,200,OK,Thread Group 1-72,text,true,,750,515,36,36,http://10.240.4.179/api/issues/jdh001/,72,0,0
+1631775640944,72,Issue jdh001-0,301,Moved Permanently,Thread Group 1-72,text,true,,271,257,36,36,http://10.240.4.179/api/issues/jdh001,72,0,0
+1631775641016,39,Issue jdh001-1,200,OK,Thread Group 1-72,text,true,,479,258,36,36,http://10.240.4.179/api/issues/jdh001/,39,0,0
+1631775640533,529,Random article,200,OK,Thread Group 1-57,text,true,,35081,531,36,36,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,183,0,0
+1631775640533,183,Random article-0,301,Moved Permanently,Thread Group 1-57,text,true,,279,265,36,36,http://10.240.4.179/api/articles/WBqfZzfi7nHK,183,0,0
+1631775640716,346,Random article-1,200,OK,Thread Group 1-57,text,true,,34802,266,36,36,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,344,0,0
+1631775640718,357,Raw github,200,OK,Thread Group 1-48,text,true,,10203231,314,36,36,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,2,0,0
+1631775640972,154,Raw github,200,OK,Thread Group 1-41,text,true,,2038004,344,36,36,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,3,0,0
+1631775640627,531,Issues list,200,OK,Thread Group 1-75,text,true,,910,549,36,36,http://10.240.4.179/api/issues/?ordering=-creation_date,170,0,6
+1631775640627,170,Issues list-0,301,Moved Permanently,Thread Group 1-75,text,true,,288,274,36,36,http://10.240.4.179/api/issues?ordering=-creation_date,170,0,6
+1631775640797,361,Issues list-1,200,OK,Thread Group 1-75,text,true,,622,275,36,36,http://10.240.4.179/api/issues/?ordering=-creation_date,361,0,0
+1631775640716,448,Articles's list jdh001,200,OK,Thread Group 1-60,text,true,,224350,264,36,36,http://10.240.4.179/api/articles/?pid=jdh001,428,0,0
+1631775641029,140,Articles's list jdh001,200,OK,Thread Group 1-76,text,true,,224350,264,36,36,http://10.240.4.179/api/articles/?pid=jdh001,123,0,0
+1631775641017,172,Random article,200,OK,Thread Group 1-66,text,true,,35081,531,37,37,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,38,0,0
+1631775641017,38,Random article-0,301,Moved Permanently,Thread Group 1-66,text,true,,279,265,37,37,http://10.240.4.179/api/articles/WBqfZzfi7nHK,38,0,0
+1631775641056,133,Random article-1,200,OK,Thread Group 1-66,text,true,,34802,266,37,37,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,132,0,0
+1631775641016,182,Issue jdh001,200,OK,Thread Group 1-79,text,true,,750,515,37,37,http://10.240.4.179/api/issues/jdh001/,39,0,0
+1631775641016,39,Issue jdh001-0,301,Moved Permanently,Thread Group 1-79,text,true,,271,257,37,37,http://10.240.4.179/api/issues/jdh001,39,0,0
+1631775641056,142,Issue jdh001-1,200,OK,Thread Group 1-79,text,true,,479,258,37,37,http://10.240.4.179/api/issues/jdh001/,142,0,0
+1631775640654,569,Raw github,200,OK,Thread Group 1-49,text,true,,14088282,319,37,37,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,1,0,0
+1631775640634,642,Issue jdh001,200,OK,Thread Group 1-65,text,true,,750,515,37,37,http://10.240.4.179/api/issues/jdh001/,265,0,0
+1631775640634,265,Issue jdh001-0,301,Moved Permanently,Thread Group 1-65,text,true,,271,257,37,37,http://10.240.4.179/api/issues/jdh001,265,0,0
+1631775640899,377,Issue jdh001-1,200,OK,Thread Group 1-65,text,true,,479,258,37,37,http://10.240.4.179/api/issues/jdh001/,377,0,0
+1631775640872,404,Articles's list jdh001,200,OK,Thread Group 1-59,text,true,,224350,264,37,37,http://10.240.4.179/api/articles/?pid=jdh001,386,0,0
+1631775641028,285,Issues list,200,OK,Thread Group 1-83,text,true,,910,549,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,129,0,3
+1631775641028,129,Issues list-0,301,Moved Permanently,Thread Group 1-83,text,true,,288,274,38,38,http://10.240.4.179/api/issues?ordering=-creation_date,129,0,3
+1631775641157,156,Issues list-1,200,OK,Thread Group 1-83,text,true,,622,275,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,156,0,0
+1631775640748,565,Raw github,200,OK,Thread Group 1-54,text,true,,10203231,314,38,38,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,4,0,0
+1631775641056,264,Articles's list jdh001,200,OK,Thread Group 1-72,text,true,,224350,264,37,37,http://10.240.4.179/api/articles/?pid=jdh001,240,0,0
+1631775640837,487,Issue jdh001,200,OK,Thread Group 1-68,text,true,,750,515,37,37,http://10.240.4.179/api/issues/jdh001/,322,0,0
+1631775640837,322,Issue jdh001-0,301,Moved Permanently,Thread Group 1-68,text,true,,271,257,37,37,http://10.240.4.179/api/issues/jdh001,322,0,0
+1631775641159,165,Issue jdh001-1,200,OK,Thread Group 1-68,text,true,,479,258,37,37,http://10.240.4.179/api/issues/jdh001/,165,0,0
+1631775640808,541,Random article,200,OK,Thread Group 1-62,text,true,,20524,531,38,38,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,351,0,0
+1631775640808,351,Random article-0,301,Moved Permanently,Thread Group 1-62,text,true,,279,265,38,38,http://10.240.4.179/api/articles/8pGzPyTDKBjR,351,0,0
+1631775641159,190,Random article-1,200,OK,Thread Group 1-62,text,true,,20245,266,38,38,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,188,0,0
+1631775640837,523,Issue jdh001,200,OK,Thread Group 1-71,text,true,,750,515,38,38,http://10.240.4.179/api/issues/jdh001/,324,0,0
+1631775640837,324,Issue jdh001-0,301,Moved Permanently,Thread Group 1-71,text,true,,271,257,38,38,http://10.240.4.179/api/issues/jdh001,324,0,0
+1631775641161,199,Issue jdh001-1,200,OK,Thread Group 1-71,text,true,,479,258,38,38,http://10.240.4.179/api/issues/jdh001/,199,0,0
+1631775640843,527,Issue jdh001,200,OK,Thread Group 1-67,text,true,,750,515,38,38,http://10.240.4.179/api/issues/jdh001/,318,0,0
+1631775640843,318,Issue jdh001-0,301,Moved Permanently,Thread Group 1-67,text,true,,271,257,38,38,http://10.240.4.179/api/issues/jdh001,318,0,0
+1631775641161,209,Issue jdh001-1,200,OK,Thread Group 1-67,text,true,,479,258,38,38,http://10.240.4.179/api/issues/jdh001/,208,0,0
+1631775640848,533,Issue jdh001,200,OK,Thread Group 1-74,text,true,,750,515,39,39,http://10.240.4.179/api/issues/jdh001/,315,0,0
+1631775640848,315,Issue jdh001-0,301,Moved Permanently,Thread Group 1-74,text,true,,271,257,39,39,http://10.240.4.179/api/issues/jdh001,315,0,0
+1631775641163,218,Issue jdh001-1,200,OK,Thread Group 1-74,text,true,,479,258,39,39,http://10.240.4.179/api/issues/jdh001/,218,0,0
+1631775640878,510,Issues list,200,OK,Thread Group 1-80,text,true,,910,549,39,39,http://10.240.4.179/api/issues/?ordering=-creation_date,32,0,2
+1631775640878,32,Issues list-0,301,Moved Permanently,Thread Group 1-80,text,true,,288,274,39,39,http://10.240.4.179/api/issues?ordering=-creation_date,32,0,2
+1631775640910,478,Issues list-1,200,OK,Thread Group 1-80,text,true,,622,275,39,39,http://10.240.4.179/api/issues/?ordering=-creation_date,478,0,0
+1631775640899,489,Articles's list jdh001,200,OK,Thread Group 1-61,text,true,,224350,264,39,39,http://10.240.4.179/api/articles/?pid=jdh001,474,0,0
+1631775641062,406,Raw github,200,OK,Thread Group 1-57,text,true,,6779253,347,40,40,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-WBqfZzfi7nHK/main/scripts/Digital_epigraphy_cite2c_biblio.ipynb,2,0,0
+1631775640881,603,Issue jdh001,200,OK,Thread Group 1-70,text,true,,750,515,40,40,http://10.240.4.179/api/issues/jdh001/,381,0,0
+1631775640881,381,Issue jdh001-0,301,Moved Permanently,Thread Group 1-70,text,true,,271,257,40,40,http://10.240.4.179/api/issues/jdh001,381,0,0
+1631775641262,222,Issue jdh001-1,200,OK,Thread Group 1-70,text,true,,479,258,40,40,http://10.240.4.179/api/issues/jdh001/,222,0,0
+1631775641198,285,Articles's list jdh001,200,OK,Thread Group 1-79,text,true,,224350,264,40,40,http://10.240.4.179/api/articles/?pid=jdh001,271,0,0
+1631775640890,608,Issue jdh001,200,OK,Thread Group 1-69,text,true,,750,515,40,40,http://10.240.4.179/api/issues/jdh001/,372,0,0
+1631775640890,372,Issue jdh001-0,301,Moved Permanently,Thread Group 1-69,text,true,,271,257,40,40,http://10.240.4.179/api/issues/jdh001,372,0,0
+1631775641262,236,Issue jdh001-1,200,OK,Thread Group 1-69,text,true,,479,258,40,40,http://10.240.4.179/api/issues/jdh001/,236,0,0
+1631775640937,569,Raw github,200,OK,Thread Group 1-53,text,true,,9297333,335,40,40,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,2,0,0
+1631775640910,594,Articles's list jdh001,200,OK,Thread Group 1-63,text,true,,224350,264,40,40,http://10.240.4.179/api/articles/?pid=jdh001,579,0,0
+1631775641189,353,Raw github,200,OK,Thread Group 1-66,text,true,,6779253,347,40,40,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-WBqfZzfi7nHK/main/scripts/Digital_epigraphy_cite2c_biblio.ipynb,3,0,0
+1631775641019,563,Raw github,200,OK,Thread Group 1-50,text,true,,9297333,335,40,40,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,2,0,0
+1631775640910,675,Articles's list jdh001,200,OK,Thread Group 1-64,text,true,,224350,264,39,39,http://10.240.4.179/api/articles/?pid=jdh001,662,0,0
+1631775641158,436,Issue jdh001,200,OK,Thread Group 1-75,text,true,,750,515,39,39,http://10.240.4.179/api/issues/jdh001/,155,0,0
+1631775641158,155,Issue jdh001-0,301,Moved Permanently,Thread Group 1-75,text,true,,271,257,39,39,http://10.240.4.179/api/issues/jdh001,155,0,0
+1631775641313,281,Issue jdh001-1,200,OK,Thread Group 1-75,text,true,,479,258,39,39,http://10.240.4.179/api/issues/jdh001/,281,0,0
+1631775641276,318,Articles's list jdh001,200,OK,Thread Group 1-65,text,true,,224350,264,39,39,http://10.240.4.179/api/articles/?pid=jdh001,306,0,0
+1631775640840,761,Random article,200,OK,Thread Group 1-58,text,true,,29182,531,39,39,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,70,0,0
+1631775640840,70,Random article-0,301,Moved Permanently,Thread Group 1-58,text,true,,279,265,39,39,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,70,0,0
+1631775640910,691,Random article-1,200,OK,Thread Group 1-58,text,true,,28903,266,39,39,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,690,0,0
+1631775640876,726,Raw github,200,OK,Thread Group 1-56,text,true,,14088282,319,39,39,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,3,0,0
+1631775640703,927,Random article,200,OK,Thread Group 1-52,text,true,,19120,531,39,39,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,232,0,0
+1631775640703,232,Random article-0,301,Moved Permanently,Thread Group 1-52,text,true,,279,265,39,39,http://10.240.4.179/api/articles/SLCj9T3MsrEk,232,0,0
+1631775640935,695,Random article-1,200,OK,Thread Group 1-52,text,true,,18841,266,39,39,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,694,0,0
+1631775641602,35,Raw github,200,OK,Thread Group 1-58,text,true,,1143276,337,39,39,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,1,0,0
+1631775640729,910,Issues list,200,OK,Thread Group 1-77,text,true,,910,549,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,417,0,3
+1631775640729,417,Issues list-0,301,Moved Permanently,Thread Group 1-77,text,true,,288,274,38,38,http://10.240.4.179/api/issues?ordering=-creation_date,417,0,3
+1631775641146,493,Issues list-1,200,OK,Thread Group 1-77,text,true,,622,275,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,493,0,0
+1631775640776,874,Issues list,200,OK,Thread Group 1-78,text,true,,910,549,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,373,0,3
+1631775640776,373,Issues list-0,301,Moved Permanently,Thread Group 1-78,text,true,,288,274,38,38,http://10.240.4.179/api/issues?ordering=-creation_date,373,0,3
+1631775641149,501,Issues list-1,200,OK,Thread Group 1-78,text,true,,622,275,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,501,0,0
+1631775640994,667,Raw github,200,OK,Thread Group 1-55,text,true,,14088282,319,38,38,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,3,0,0
+1631775641631,46,Raw github,200,OK,Thread Group 1-52,text,true,,1847661,331,38,38,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,2,0,0
+1631775641370,313,Articles's list jdh001,200,OK,Thread Group 1-67,text,true,,224350,264,37,37,http://10.240.4.179/api/articles/?pid=jdh001,305,0,0
+1631775641349,388,Raw github,200,OK,Thread Group 1-62,text,true,,14088282,319,38,38,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,3,0,0
+1631775641324,417,Articles's list jdh001,200,OK,Thread Group 1-68,text,true,,224350,264,37,37,http://10.240.4.179/api/articles/?pid=jdh001,411,0,0
+1631775641382,378,Articles's list jdh001,200,OK,Thread Group 1-74,text,true,,224350,264,37,37,http://10.240.4.179/api/articles/?pid=jdh001,370,0,0
+1631775641177,589,Issues list,200,OK,Thread Group 1-86,text,true,,910,549,37,37,http://10.240.4.179/api/issues/?ordering=-creation_date,207,0,2
+1631775641177,207,Issues list-0,301,Moved Permanently,Thread Group 1-86,text,true,,288,274,37,37,http://10.240.4.179/api/issues?ordering=-creation_date,207,0,2
+1631775641384,382,Issues list-1,200,OK,Thread Group 1-86,text,true,,622,275,37,37,http://10.240.4.179/api/issues/?ordering=-creation_date,382,0,0
+1631775641230,546,Issues list,200,OK,Thread Group 1-87,text,true,,910,549,37,37,http://10.240.4.179/api/issues/?ordering=-creation_date,241,0,2
+1631775641230,241,Issues list-0,301,Moved Permanently,Thread Group 1-87,text,true,,288,274,37,37,http://10.240.4.179/api/issues?ordering=-creation_date,241,0,2
+1631775641471,305,Issues list-1,200,OK,Thread Group 1-87,text,true,,622,275,37,37,http://10.240.4.179/api/issues/?ordering=-creation_date,305,0,0
+1631775641360,459,Articles's list jdh001,200,OK,Thread Group 1-71,text,true,,224350,264,38,38,http://10.240.4.179/api/articles/?pid=jdh001,445,0,0
+1631775641484,367,Articles's list jdh001,200,OK,Thread Group 1-70,text,true,,224350,264,39,39,http://10.240.4.179/api/articles/?pid=jdh001,357,0,0
+1631775641167,702,Random article,200,OK,Thread Group 1-60,text,true,,29182,531,39,39,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,483,0,0
+1631775641167,483,Random article-0,301,Moved Permanently,Thread Group 1-60,text,true,,279,265,39,39,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,483,0,0
+1631775641650,219,Random article-1,200,OK,Thread Group 1-60,text,true,,28903,266,39,39,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,218,0,0
+1631775641388,492,Issue jdh001,200,OK,Thread Group 1-80,text,true,,750,515,40,40,http://10.240.4.179/api/issues/jdh001/,378,0,0
+1631775641388,378,Issue jdh001-0,301,Moved Permanently,Thread Group 1-80,text,true,,271,257,40,40,http://10.240.4.179/api/issues/jdh001,378,0,0
+1631775641766,114,Issue jdh001-1,200,OK,Thread Group 1-80,text,true,,479,258,40,40,http://10.240.4.179/api/issues/jdh001/,114,0,0
+1631775641376,515,Issues list,200,OK,Thread Group 1-90,text,true,,910,549,40,40,http://10.240.4.179/api/issues/?ordering=-creation_date,432,0,3
+1631775641278,613,Issues list,200,OK,Thread Group 1-88,text,true,,910,549,40,40,http://10.240.4.179/api/issues/?ordering=-creation_date,308,0,2
+1631775641376,432,Issues list-0,301,Moved Permanently,Thread Group 1-90,text,true,,288,274,40,40,http://10.240.4.179/api/issues?ordering=-creation_date,432,0,3
+1631775641278,308,Issues list-0,301,Moved Permanently,Thread Group 1-88,text,true,,288,274,40,40,http://10.240.4.179/api/issues?ordering=-creation_date,308,0,2
+1631775641808,83,Issues list-1,200,OK,Thread Group 1-90,text,true,,622,275,40,40,http://10.240.4.179/api/issues/?ordering=-creation_date,83,0,0
+1631775641586,305,Issues list-1,200,OK,Thread Group 1-88,text,true,,622,275,40,40,http://10.240.4.179/api/issues/?ordering=-creation_date,305,0,0
+1631775641498,392,Articles's list jdh001,200,OK,Thread Group 1-69,text,true,,224350,264,40,40,http://10.240.4.179/api/articles/?pid=jdh001,382,0,0
+1631775641487,422,Random article,200,OK,Thread Group 1-79,text,true,,20524,531,40,40,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,357,0,0
+1631775641487,357,Random article-0,301,Moved Permanently,Thread Group 1-79,text,true,,279,265,40,40,http://10.240.4.179/api/articles/8pGzPyTDKBjR,357,0,0
+1631775641844,65,Random article-1,200,OK,Thread Group 1-79,text,true,,20245,266,40,40,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,64,0,0
+1631775641279,631,Random article,200,OK,Thread Group 1-59,text,true,,4331,531,40,40,http://10.240.4.179/api/articles/MyifnvNPDgUx/,307,0,0
+1631775641279,307,Random article-0,301,Moved Permanently,Thread Group 1-59,text,true,,279,265,40,40,http://10.240.4.179/api/articles/MyifnvNPDgUx,307,0,0
+1631775641586,324,Random article-1,200,OK,Thread Group 1-59,text,true,,4052,266,40,40,http://10.240.4.179/api/articles/MyifnvNPDgUx/,324,0,0
+1631775641576,340,Issues list,200,OK,Thread Group 1-94,text,true,,910,549,40,40,http://10.240.4.179/api/issues/?ordering=-creation_date,269,0,3
+1631775641576,269,Issues list-0,301,Moved Permanently,Thread Group 1-94,text,true,,288,274,40,40,http://10.240.4.179/api/issues?ordering=-creation_date,269,0,3
+1631775641845,71,Issues list-1,200,OK,Thread Group 1-94,text,true,,622,275,40,40,http://10.240.4.179/api/issues/?ordering=-creation_date,71,0,0
+1631775641910,12,Raw github,200,OK,Thread Group 1-59,text,true,,153631,356,40,40,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-MyifnvNPDgUx/main/taking-the-measure-of-social-democracy-anonymous.ipynb,3,0,0
+1631775641639,286,Issue jdh001,200,OK,Thread Group 1-77,text,true,,750,515,39,39,http://10.240.4.179/api/issues/jdh001/,207,0,0
+1631775641639,207,Issue jdh001-0,301,Moved Permanently,Thread Group 1-77,text,true,,271,257,39,39,http://10.240.4.179/api/issues/jdh001,207,0,0
+1631775641846,79,Issue jdh001-1,200,OK,Thread Group 1-77,text,true,,479,258,39,39,http://10.240.4.179/api/issues/jdh001/,79,0,0
+1631775641870,63,Raw github,200,OK,Thread Group 1-60,text,true,,1143276,337,39,39,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,4,0,0
+1631775641685,266,Random article,200,OK,Thread Group 1-67,text,true,,19120,531,38,38,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,183,0,0
+1631775641685,183,Random article-0,301,Moved Permanently,Thread Group 1-67,text,true,,279,265,38,38,http://10.240.4.179/api/articles/SLCj9T3MsrEk,183,0,0
+1631775641868,83,Random article-1,200,OK,Thread Group 1-67,text,true,,18841,266,38,38,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,83,0,0
+1631775641726,232,Issues list,200,OK,Thread Group 1-97,text,true,,910,549,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,142,0,3
+1631775641726,142,Issues list-0,301,Moved Permanently,Thread Group 1-97,text,true,,288,274,38,38,http://10.240.4.179/api/issues?ordering=-creation_date,142,0,3
+1631775641868,90,Issues list-1,200,OK,Thread Group 1-97,text,true,,622,275,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,90,0,0
+1631775641762,215,Random article,200,OK,Thread Group 1-74,text,true,,4331,531,38,38,http://10.240.4.179/api/articles/MyifnvNPDgUx/,107,0,0
+1631775641762,107,Random article-0,301,Moved Permanently,Thread Group 1-74,text,true,,279,265,38,38,http://10.240.4.179/api/articles/MyifnvNPDgUx,107,0,0
+1631775641869,108,Random article-1,200,OK,Thread Group 1-74,text,true,,4052,266,38,38,http://10.240.4.179/api/articles/MyifnvNPDgUx/,107,0,0
+1631775641779,207,Issues list,200,OK,Thread Group 1-98,text,true,,910,549,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,101,0,7
+1631775641779,101,Issues list-0,301,Moved Permanently,Thread Group 1-98,text,true,,288,274,38,38,http://10.240.4.179/api/issues?ordering=-creation_date,101,0,7
+1631775641880,106,Issues list-1,200,OK,Thread Group 1-98,text,true,,622,275,38,38,http://10.240.4.179/api/issues/?ordering=-creation_date,106,0,0
+1631775641977,10,Raw github,200,OK,Thread Group 1-74,text,true,,153631,356,38,38,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-MyifnvNPDgUx/main/taking-the-measure-of-social-democracy-anonymous.ipynb,2,0,0
+1631775641313,686,Issue jdh001,200,OK,Thread Group 1-83,text,true,,750,515,37,37,http://10.240.4.179/api/issues/jdh001/,281,0,0
+1631775641313,281,Issue jdh001-0,301,Moved Permanently,Thread Group 1-83,text,true,,271,257,37,37,http://10.240.4.179/api/issues/jdh001,281,0,0
+1631775641595,404,Issue jdh001-1,200,OK,Thread Group 1-83,text,true,,479,258,37,37,http://10.240.4.179/api/issues/jdh001/,404,0,0
+1631775641595,406,Articles's list jdh001,200,OK,Thread Group 1-75,text,true,,224350,264,37,37,http://10.240.4.179/api/articles/?pid=jdh001,391,0,0
+1631775641951,60,Raw github,200,OK,Thread Group 1-67,text,true,,1847661,331,37,37,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,3,0,0
+1631775641323,694,Random article,200,OK,Thread Group 1-72,text,true,,4331,531,36,36,http://10.240.4.179/api/articles/MyifnvNPDgUx/,274,0,0
+1631775641323,274,Random article-0,301,Moved Permanently,Thread Group 1-72,text,true,,279,265,36,36,http://10.240.4.179/api/articles/MyifnvNPDgUx,274,0,0
+1631775641597,420,Random article-1,200,OK,Thread Group 1-72,text,true,,4052,266,36,36,http://10.240.4.179/api/articles/MyifnvNPDgUx/,420,0,0
+1631775641331,696,Issues list,200,OK,Thread Group 1-89,text,true,,910,549,36,36,http://10.240.4.179/api/issues/?ordering=-creation_date,266,0,2
+1631775641331,266,Issues list-0,301,Moved Permanently,Thread Group 1-89,text,true,,288,274,36,36,http://10.240.4.179/api/issues?ordering=-creation_date,266,0,2
+1631775641597,430,Issues list-1,200,OK,Thread Group 1-89,text,true,,622,275,36,36,http://10.240.4.179/api/issues/?ordering=-creation_date,430,0,0
+1631775642017,13,Raw github,200,OK,Thread Group 1-72,text,true,,153631,356,36,36,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-MyifnvNPDgUx/main/taking-the-measure-of-social-democracy-anonymous.ipynb,3,0,0
+1631775641080,954,Issues list,200,OK,Thread Group 1-84,text,true,,910,549,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,550,0,3
+1631775641080,550,Issues list-0,301,Moved Permanently,Thread Group 1-84,text,true,,288,274,35,35,http://10.240.4.179/api/issues?ordering=-creation_date,550,0,3
+1631775641630,404,Issues list-1,200,OK,Thread Group 1-84,text,true,,622,275,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,404,0,0
+1631775641033,1009,Issue jdh001,200,OK,Thread Group 1-73,text,true,,750,515,35,35,http://10.240.4.179/api/issues/jdh001/,597,0,0
+1631775641033,597,Issue jdh001-0,301,Moved Permanently,Thread Group 1-73,text,true,,271,257,35,35,http://10.240.4.179/api/issues/jdh001,597,0,0
+1631775641630,412,Issue jdh001-1,200,OK,Thread Group 1-73,text,true,,479,258,35,35,http://10.240.4.179/api/issues/jdh001/,412,0,0
+1631775641043,1009,Issue jdh001,200,OK,Thread Group 1-81,text,true,,750,515,35,35,http://10.240.4.179/api/issues/jdh001/,587,0,0
+1631775641043,587,Issue jdh001-0,301,Moved Permanently,Thread Group 1-81,text,true,,271,257,35,35,http://10.240.4.179/api/issues/jdh001,587,0,0
+1631775641630,422,Issue jdh001-1,200,OK,Thread Group 1-81,text,true,,479,258,35,35,http://10.240.4.179/api/issues/jdh001/,422,0,0
+1631775640979,1081,Issues list,200,OK,Thread Group 1-82,text,true,,910,549,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,651,0,2
+1631775640979,651,Issues list-0,301,Moved Permanently,Thread Group 1-82,text,true,,288,274,35,35,http://10.240.4.179/api/issues?ordering=-creation_date,651,0,2
+1631775641630,430,Issues list-1,200,OK,Thread Group 1-82,text,true,,622,275,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,430,0,0
+1631775641766,302,Issue jdh001,200,OK,Thread Group 1-86,text,true,,750,515,35,35,http://10.240.4.179/api/issues/jdh001/,114,0,0
+1631775641766,114,Issue jdh001-0,301,Moved Permanently,Thread Group 1-86,text,true,,271,257,35,35,http://10.240.4.179/api/issues/jdh001,114,0,0
+1631775641880,188,Issue jdh001-1,200,OK,Thread Group 1-86,text,true,,479,258,35,35,http://10.240.4.179/api/issues/jdh001/,188,0,0
+1631775641128,943,Issues list,200,OK,Thread Group 1-85,text,true,,910,549,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,502,0,3
+1631775641128,502,Issues list-0,301,Moved Permanently,Thread Group 1-85,text,true,,288,274,35,35,http://10.240.4.179/api/issues?ordering=-creation_date,502,0,3
+1631775641630,441,Issues list-1,200,OK,Thread Group 1-85,text,true,,622,275,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,441,0,0
+1631775641880,193,Articles's list jdh001,200,OK,Thread Group 1-80,text,true,,224350,264,35,35,http://10.240.4.179/api/articles/?pid=jdh001,181,0,0
+1631775641776,302,Issue jdh001,200,OK,Thread Group 1-87,text,true,,750,515,35,35,http://10.240.4.179/api/issues/jdh001/,104,0,0
+1631775641776,104,Issue jdh001-0,301,Moved Permanently,Thread Group 1-87,text,true,,271,257,35,35,http://10.240.4.179/api/issues/jdh001,104,0,0
+1631775641880,198,Issue jdh001-1,200,OK,Thread Group 1-87,text,true,,479,258,35,35,http://10.240.4.179/api/issues/jdh001/,198,0,0
+1631775641172,923,Random article,200,OK,Thread Group 1-76,text,true,,19120,531,35,35,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,478,0,0
+1631775641172,478,Random article-0,301,Moved Permanently,Thread Group 1-76,text,true,,279,265,35,35,http://10.240.4.179/api/articles/SLCj9T3MsrEk,478,0,0
+1631775641650,445,Random article-1,200,OK,Thread Group 1-76,text,true,,18841,266,35,35,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,444,0,0
+1631775641508,594,Random article,200,OK,Thread Group 1-63,text,true,,37019,531,35,35,http://10.240.4.179/api/articles/33pRxE2dtUHP/,373,0,0
+1631775641508,373,Random article-0,301,Moved Permanently,Thread Group 1-63,text,true,,279,265,35,35,http://10.240.4.179/api/articles/33pRxE2dtUHP,373,0,0
+1631775641881,221,Random article-1,200,OK,Thread Group 1-63,text,true,,36740,266,35,35,http://10.240.4.179/api/articles/33pRxE2dtUHP/,218,0,0
+1631775641481,623,Issues list,200,OK,Thread Group 1-92,text,true,,910,549,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,295,0,3
+1631775641481,295,Issues list-0,301,Moved Permanently,Thread Group 1-92,text,true,,288,274,35,35,http://10.240.4.179/api/issues?ordering=-creation_date,295,0,3
+1631775641776,328,Issues list-1,200,OK,Thread Group 1-92,text,true,,622,275,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,328,0,0
+1631775641530,582,Issues list,200,OK,Thread Group 1-93,text,true,,910,549,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,351,0,2
+1631775641530,351,Issues list-0,301,Moved Permanently,Thread Group 1-93,text,true,,288,274,35,35,http://10.240.4.179/api/issues?ordering=-creation_date,351,0,2
+1631775641881,231,Issues list-1,200,OK,Thread Group 1-93,text,true,,622,275,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,231,0,0
+1631775641588,542,Random article,200,OK,Thread Group 1-64,text,true,,20524,531,35,35,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,322,0,0
+1631775641588,322,Random article-0,301,Moved Permanently,Thread Group 1-64,text,true,,279,265,35,35,http://10.240.4.179/api/articles/8pGzPyTDKBjR,322,0,0
+1631775641910,220,Random article-1,200,OK,Thread Group 1-64,text,true,,20245,266,35,35,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,219,0,0
+1631775641390,741,Random article,200,OK,Thread Group 1-61,text,true,,30292,531,35,35,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,418,0,0
+1631775641390,418,Random article-0,301,Moved Permanently,Thread Group 1-61,text,true,,279,265,35,35,http://10.240.4.179/api/articles/4yxHGiqXYRbX,418,0,0
+1631775641808,323,Random article-1,200,OK,Thread Group 1-61,text,true,,30013,266,35,35,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,321,0,0
+1631775641427,711,Issues list,200,OK,Thread Group 1-91,text,true,,910,549,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,381,0,3
+1631775641427,381,Issues list-0,301,Moved Permanently,Thread Group 1-91,text,true,,288,274,35,35,http://10.240.4.179/api/issues?ordering=-creation_date,381,0,3
+1631775641809,329,Issues list-1,200,OK,Thread Group 1-91,text,true,,622,275,35,35,http://10.240.4.179/api/issues/?ordering=-creation_date,329,0,0
+1631775641743,422,Random article,200,OK,Thread Group 1-68,text,true,,35081,531,35,35,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,125,0,0
+1631775641743,125,Random article-0,301,Moved Permanently,Thread Group 1-68,text,true,,279,265,35,35,http://10.240.4.179/api/articles/WBqfZzfi7nHK,125,0,0
+1631775641868,297,Random article-1,200,OK,Thread Group 1-68,text,true,,34802,266,35,35,http://10.240.4.179/api/articles/WBqfZzfi7nHK/,295,0,0
+1631775641823,363,Random article,200,OK,Thread Group 1-71,text,true,,30292,531,35,35,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,68,0,0
+1631775641823,68,Random article-0,301,Moved Permanently,Thread Group 1-71,text,true,,279,265,35,35,http://10.240.4.179/api/articles/4yxHGiqXYRbX,68,0,0
+1631775641891,295,Random article-1,200,OK,Thread Group 1-71,text,true,,30013,266,35,35,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,292,0,0
+1631775642096,137,Raw github,200,OK,Thread Group 1-76,text,true,,1847661,331,35,35,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,1,0,0
+1631775641597,652,Random article,200,OK,Thread Group 1-65,text,true,,29182,531,34,34,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,402,0,0
+1631775641597,402,Random article-0,301,Moved Permanently,Thread Group 1-65,text,true,,279,265,34,34,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,402,0,0
+1631775641999,250,Random article-1,200,OK,Thread Group 1-65,text,true,,28903,266,34,34,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,247,0,0
+1631775641925,322,Articles's list jdh001,200,OK,Thread Group 1-77,text,true,,224350,264,34,34,http://10.240.4.179/api/articles/?pid=jdh001,296,0,0
+1631775642043,273,Articles's list jdh001,200,OK,Thread Group 1-73,text,true,,224350,264,34,34,http://10.240.4.179/api/articles/?pid=jdh001,243,0,0
+1631775642250,76,Raw github,200,OK,Thread Group 1-65,text,true,,1143276,337,34,34,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,2,0,0
+1631775642000,349,Articles's list jdh001,200,OK,Thread Group 1-83,text,true,,224350,264,33,33,http://10.240.4.179/api/articles/?pid=jdh001,332,0,0
+1631775641629,765,Issues list,200,OK,Thread Group 1-95,text,true,,910,549,33,33,http://10.240.4.179/api/issues/?ordering=-creation_date,444,0,3
+1631775641629,444,Issues list-0,301,Moved Permanently,Thread Group 1-95,text,true,,288,274,33,33,http://10.240.4.179/api/issues?ordering=-creation_date,444,0,3
+1631775642073,321,Issues list-1,200,OK,Thread Group 1-95,text,true,,622,275,33,33,http://10.240.4.179/api/issues/?ordering=-creation_date,321,0,0
+1631775642052,342,Articles's list jdh001,200,OK,Thread Group 1-81,text,true,,224350,264,33,33,http://10.240.4.179/api/articles/?pid=jdh001,326,0,0
+1631775641650,755,Issue jdh001,200,OK,Thread Group 1-78,text,true,,750,515,33,33,http://10.240.4.179/api/issues/jdh001/,424,0,0
+1631775641650,424,Issue jdh001-0,301,Moved Permanently,Thread Group 1-78,text,true,,271,257,33,33,http://10.240.4.179/api/issues/jdh001,424,0,0
+1631775642074,331,Issue jdh001-1,200,OK,Thread Group 1-78,text,true,,479,258,33,33,http://10.240.4.179/api/issues/jdh001/,331,0,0
+1631775641916,502,Issue jdh001,200,OK,Thread Group 1-94,text,true,,750,515,33,33,http://10.240.4.179/api/issues/jdh001/,214,0,0
+1631775641916,214,Issue jdh001-0,301,Moved Permanently,Thread Group 1-94,text,true,,271,257,33,33,http://10.240.4.179/api/issues/jdh001,214,0,0
+1631775642130,288,Issue jdh001-1,200,OK,Thread Group 1-94,text,true,,479,258,33,33,http://10.240.4.179/api/issues/jdh001/,288,0,0
+1631775641891,544,Issue jdh001,200,OK,Thread Group 1-90,text,true,,750,515,33,33,http://10.240.4.179/api/issues/jdh001/,294,0,0
+1631775641891,294,Issue jdh001-0,301,Moved Permanently,Thread Group 1-90,text,true,,271,257,33,33,http://10.240.4.179/api/issues/jdh001,294,0,0
+1631775642185,250,Issue jdh001-1,200,OK,Thread Group 1-90,text,true,,479,258,33,33,http://10.240.4.179/api/issues/jdh001/,250,0,0
+1631775642068,369,Articles's list jdh001,200,OK,Thread Group 1-86,text,true,,224350,264,33,33,http://10.240.4.179/api/articles/?pid=jdh001,345,0,0
+1631775641891,552,Issue jdh001,200,OK,Thread Group 1-88,text,true,,750,515,33,33,http://10.240.4.179/api/issues/jdh001/,294,0,0
+1631775641891,294,Issue jdh001-0,301,Moved Permanently,Thread Group 1-88,text,true,,271,257,33,33,http://10.240.4.179/api/issues/jdh001,294,0,0
+1631775642185,258,Issue jdh001-1,200,OK,Thread Group 1-88,text,true,,479,258,33,33,http://10.240.4.179/api/issues/jdh001/,258,0,0
+1631775641892,574,Random article,200,OK,Thread Group 1-69,text,true,,41871,531,33,33,http://10.240.4.179/api/articles/JJszM3GwAYDs/,293,0,0
+1631775641892,293,Random article-0,301,Moved Permanently,Thread Group 1-69,text,true,,279,265,33,33,http://10.240.4.179/api/articles/JJszM3GwAYDs,293,0,0
+1631775642185,281,Random article-1,200,OK,Thread Group 1-69,text,true,,41592,266,33,33,http://10.240.4.179/api/articles/JJszM3GwAYDs/,277,0,0
+1631775642004,481,Random article,200,OK,Thread Group 1-75,text,true,,20524,531,33,33,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,330,0,0
+1631775642004,330,Random article-0,301,Moved Permanently,Thread Group 1-75,text,true,,279,265,33,33,http://10.240.4.179/api/articles/8pGzPyTDKBjR,330,0,0
+1631775642334,151,Random article-1,200,OK,Thread Group 1-75,text,true,,20245,266,33,33,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,149,0,0
+1631775642034,460,Issue jdh001,200,OK,Thread Group 1-84,text,true,,750,515,33,33,http://10.240.4.179/api/issues/jdh001/,301,0,0
+1631775642034,301,Issue jdh001-0,301,Moved Permanently,Thread Group 1-84,text,true,,271,257,33,33,http://10.240.4.179/api/issues/jdh001,301,0,0
+1631775642335,159,Issue jdh001-1,200,OK,Thread Group 1-84,text,true,,479,258,33,33,http://10.240.4.179/api/issues/jdh001/,159,0,0
+1631775642027,475,Issue jdh001,200,OK,Thread Group 1-89,text,true,,750,515,33,33,http://10.240.4.179/api/issues/jdh001/,308,0,0
+1631775642027,308,Issue jdh001-0,301,Moved Permanently,Thread Group 1-89,text,true,,271,257,33,33,http://10.240.4.179/api/issues/jdh001,308,0,0
+1631775642335,167,Issue jdh001-1,200,OK,Thread Group 1-89,text,true,,479,258,33,33,http://10.240.4.179/api/issues/jdh001/,167,0,0
+1631775642061,451,Issue jdh001,200,OK,Thread Group 1-82,text,true,,750,515,33,33,http://10.240.4.179/api/issues/jdh001/,275,0,0
+1631775642061,275,Issue jdh001-0,301,Moved Permanently,Thread Group 1-82,text,true,,271,257,33,33,http://10.240.4.179/api/issues/jdh001,275,0,0
+1631775642336,176,Issue jdh001-1,200,OK,Thread Group 1-82,text,true,,479,258,33,33,http://10.240.4.179/api/issues/jdh001/,176,0,0
+1631775641676,858,Issues list,200,OK,Thread Group 1-96,text,true,,910,549,33,33,http://10.240.4.179/api/issues/?ordering=-creation_date,419,0,2
+1631775641676,419,Issues list-0,301,Moved Permanently,Thread Group 1-96,text,true,,288,274,33,33,http://10.240.4.179/api/issues?ordering=-creation_date,419,0,2
+1631775642095,439,Issues list-1,200,OK,Thread Group 1-96,text,true,,622,275,33,33,http://10.240.4.179/api/issues/?ordering=-creation_date,439,0,0
+1631775642076,458,Random article,200,OK,Thread Group 1-80,text,true,,11947,531,33,33,http://10.240.4.179/api/articles/9HcfToh7EYm8/,329,0,0
+1631775642076,329,Random article-0,301,Moved Permanently,Thread Group 1-80,text,true,,279,265,33,33,http://10.240.4.179/api/articles/9HcfToh7EYm8,329,0,0
+1631775642405,129,Random article-1,200,OK,Thread Group 1-80,text,true,,11668,266,33,33,http://10.240.4.179/api/articles/9HcfToh7EYm8/,129,0,0
+1631775642078,459,Articles's list jdh001,200,OK,Thread Group 1-87,text,true,,224350,264,33,33,http://10.240.4.179/api/articles/?pid=jdh001,440,0,0
+1631775641879,670,Issues list,200,OK,Thread Group 1-100,text,true,,910,549,33,33,http://10.240.4.179/api/issues/?ordering=-creation_date,233,0,3
+1631775641879,233,Issues list-0,301,Moved Permanently,Thread Group 1-100,text,true,,288,274,33,33,http://10.240.4.179/api/issues?ordering=-creation_date,233,0,3
+1631775642112,437,Issues list-1,200,OK,Thread Group 1-100,text,true,,622,275,33,33,http://10.240.4.179/api/issues/?ordering=-creation_date,437,0,0
+1631775641830,727,Issues list,200,OK,Thread Group 1-99,text,true,,910,549,33,33,http://10.240.4.179/api/issues/?ordering=-creation_date,308,0,7
+1631775641830,308,Issues list-0,301,Moved Permanently,Thread Group 1-99,text,true,,288,274,33,33,http://10.240.4.179/api/issues?ordering=-creation_date,308,0,7
+1631775642138,419,Issues list-1,200,OK,Thread Group 1-99,text,true,,622,275,33,33,http://10.240.4.179/api/issues/?ordering=-creation_date,419,0,0
+1631775641855,728,Random article,200,OK,Thread Group 1-70,text,true,,29182,531,33,33,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,284,0,0
+1631775641855,284,Random article-0,301,Moved Permanently,Thread Group 1-70,text,true,,279,265,33,33,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,284,0,0
+1631775642139,444,Random article-1,200,OK,Thread Group 1-70,text,true,,28903,266,33,33,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,440,0,0
+1631775641958,632,Issue jdh001,200,OK,Thread Group 1-97,text,true,,750,515,33,33,http://10.240.4.179/api/issues/jdh001/,265,0,0
+1631775641958,265,Issue jdh001-0,301,Moved Permanently,Thread Group 1-97,text,true,,271,257,33,33,http://10.240.4.179/api/issues/jdh001,265,0,0
+1631775642223,367,Issue jdh001-1,200,OK,Thread Group 1-97,text,true,,479,258,33,33,http://10.240.4.179/api/issues/jdh001/,367,0,0
+1631775641909,685,Raw github,200,OK,Thread Group 1-79,text,true,,14088282,319,33,33,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,3,0,0
+1631775641986,617,Issue jdh001,200,OK,Thread Group 1-98,text,true,,750,515,32,32,http://10.240.4.179/api/issues/jdh001/,240,0,0
+1631775641986,240,Issue jdh001-0,301,Moved Permanently,Thread Group 1-98,text,true,,271,257,32,32,http://10.240.4.179/api/issues/jdh001,240,0,0
+1631775642226,377,Issue jdh001-1,200,OK,Thread Group 1-98,text,true,,479,258,32,32,http://10.240.4.179/api/issues/jdh001/,377,0,0
+1631775642466,174,Raw github,200,OK,Thread Group 1-69,text,true,,2038004,344,32,32,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,3,0,0
+1631775642071,575,Issue jdh001,200,OK,Thread Group 1-85,text,true,,750,515,31,31,http://10.240.4.179/api/issues/jdh001/,345,0,0
+1631775642071,345,Issue jdh001-0,301,Moved Permanently,Thread Group 1-85,text,true,,271,257,31,31,http://10.240.4.179/api/issues/jdh001,345,0,0
+1631775642416,230,Issue jdh001-1,200,OK,Thread Group 1-85,text,true,,479,258,31,31,http://10.240.4.179/api/issues/jdh001/,230,0,0
+1631775642405,244,Articles's list jdh001,200,OK,Thread Group 1-78,text,true,,224350,264,31,31,http://10.240.4.179/api/articles/?pid=jdh001,231,0,0
+1631775642166,499,Raw github,200,OK,Thread Group 1-68,text,true,,6779253,347,31,31,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-WBqfZzfi7nHK/main/scripts/Digital_epigraphy_cite2c_biblio.ipynb,2,0,0
+1631775642131,536,Raw github,200,OK,Thread Group 1-61,text,true,,9297333,335,30,30,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,3,0,0
+1631775642102,580,Raw github,200,OK,Thread Group 1-63,text,true,,10203231,314,29,29,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,2,0,0
+1631775642418,276,Articles's list jdh001,200,OK,Thread Group 1-94,text,true,,224350,264,28,28,http://10.240.4.179/api/articles/?pid=jdh001,261,0,0
+1631775642584,118,Raw github,200,OK,Thread Group 1-70,text,true,,1143276,337,28,28,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,5,0,0
+1631775642535,168,Raw github,200,OK,Thread Group 1-80,text,true,,3270289,325,27,27,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-9HcfToh7EYm8/main/dialectsofdiscord.ipynb,3,0,0
+1631775642443,304,Articles's list jdh001,200,OK,Thread Group 1-88,text,true,,224350,264,26,26,http://10.240.4.179/api/articles/?pid=jdh001,289,0,0
+1631775642396,359,Random article,200,OK,Thread Group 1-81,text,true,,11947,531,26,26,http://10.240.4.179/api/articles/9HcfToh7EYm8/,116,0,0
+1631775642396,116,Random article-0,301,Moved Permanently,Thread Group 1-81,text,true,,279,265,26,26,http://10.240.4.179/api/articles/9HcfToh7EYm8,116,0,0
+1631775642513,242,Random article-1,200,OK,Thread Group 1-81,text,true,,11668,266,26,26,http://10.240.4.179/api/articles/9HcfToh7EYm8/,242,0,0
+1631775642435,340,Articles's list jdh001,200,OK,Thread Group 1-90,text,true,,224350,264,26,26,http://10.240.4.179/api/articles/?pid=jdh001,320,0,0
+1631775642130,662,Raw github,200,OK,Thread Group 1-64,text,true,,14088282,319,26,26,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,2,0,0
+1631775642186,620,Raw github,200,OK,Thread Group 1-71,text,true,,9297333,335,25,25,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,6,0,0
+1631775642756,78,Raw github,200,OK,Thread Group 1-81,text,true,,3270289,325,24,24,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-9HcfToh7EYm8/main/dialectsofdiscord.ipynb,2,0,0
+1631775642495,340,Articles's list jdh001,200,OK,Thread Group 1-84,text,true,,224350,264,24,24,http://10.240.4.179/api/articles/?pid=jdh001,327,0,0
+1631775642513,336,Articles's list jdh001,200,OK,Thread Group 1-82,text,true,,224350,264,23,23,http://10.240.4.179/api/articles/?pid=jdh001,329,0,0
+1631775642394,457,Issue jdh001,200,OK,Thread Group 1-95,text,true,,750,515,23,23,http://10.240.4.179/api/issues/jdh001/,118,0,0
+1631775642394,118,Issue jdh001-0,301,Moved Permanently,Thread Group 1-95,text,true,,271,257,23,23,http://10.240.4.179/api/issues/jdh001,118,0,0
+1631775642513,338,Issue jdh001-1,200,OK,Thread Group 1-95,text,true,,479,258,23,23,http://10.240.4.179/api/issues/jdh001/,338,0,0
+1631775642318,556,Random article,200,OK,Thread Group 1-73,text,true,,30292,531,23,23,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,285,0,0
+1631775642318,285,Random article-0,301,Moved Permanently,Thread Group 1-73,text,true,,279,265,23,23,http://10.240.4.179/api/articles/4yxHGiqXYRbX,285,0,0
+1631775642603,271,Random article-1,200,OK,Thread Group 1-73,text,true,,30013,266,23,23,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,270,0,0
+1631775642352,545,Random article,200,OK,Thread Group 1-83,text,true,,29182,531,23,23,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,251,0,0
+1631775642352,251,Random article-0,301,Moved Permanently,Thread Group 1-83,text,true,,279,265,23,23,http://10.240.4.179/api/articles/L2gBr3BzwH8Z,251,0,0
+1631775642603,294,Random article-1,200,OK,Thread Group 1-83,text,true,,28903,266,23,23,http://10.240.4.179/api/articles/L2gBr3BzwH8Z/,293,0,0
+1631775642250,668,Random article,200,OK,Thread Group 1-77,text,true,,20524,531,23,23,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,353,0,0
+1631775642250,353,Random article-0,301,Moved Permanently,Thread Group 1-77,text,true,,279,265,23,23,http://10.240.4.179/api/articles/8pGzPyTDKBjR,353,0,0
+1631775642603,315,Random article-1,200,OK,Thread Group 1-77,text,true,,20245,266,23,23,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,314,0,0
+1631775642104,816,Issue jdh001,200,OK,Thread Group 1-92,text,true,,750,515,23,23,http://10.240.4.179/api/issues/jdh001/,431,0,0
+1631775642104,431,Issue jdh001-0,301,Moved Permanently,Thread Group 1-92,text,true,,271,257,23,23,http://10.240.4.179/api/issues/jdh001,431,0,0
+1631775642535,385,Issue jdh001-1,200,OK,Thread Group 1-92,text,true,,479,258,23,23,http://10.240.4.179/api/issues/jdh001/,385,0,0
+1631775642502,419,Articles's list jdh001,200,OK,Thread Group 1-89,text,true,,224350,264,23,23,http://10.240.4.179/api/articles/?pid=jdh001,404,0,0
+1631775642113,816,Issue jdh001,200,OK,Thread Group 1-93,text,true,,750,515,23,23,http://10.240.4.179/api/issues/jdh001/,436,0,0
+1631775642113,436,Issue jdh001-0,301,Moved Permanently,Thread Group 1-93,text,true,,271,257,23,23,http://10.240.4.179/api/issues/jdh001,436,0,0
+1631775642549,380,Issue jdh001-1,200,OK,Thread Group 1-93,text,true,,479,258,23,23,http://10.240.4.179/api/issues/jdh001/,380,0,0
+1631775642897,39,Raw github,200,OK,Thread Group 1-83,text,true,,1143276,337,23,23,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-L2gBr3BzwH8Z/main/DigitalHistoryRepresentations.ipynb,2,0,0
+1631775642138,805,Issue jdh001,200,OK,Thread Group 1-91,text,true,,750,515,22,22,http://10.240.4.179/api/issues/jdh001/,419,0,0
+1631775642138,419,Issue jdh001-0,301,Moved Permanently,Thread Group 1-91,text,true,,271,257,22,22,http://10.240.4.179/api/issues/jdh001,419,0,0
+1631775642557,386,Issue jdh001-1,200,OK,Thread Group 1-91,text,true,,479,258,22,22,http://10.240.4.179/api/issues/jdh001/,386,0,0
+1631775642486,515,Raw github,200,OK,Thread Group 1-75,text,true,,14088282,319,22,22,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,3,0,0
+1631775642590,439,Articles's list jdh001,200,OK,Thread Group 1-97,text,true,,224350,264,21,21,http://10.240.4.179/api/articles/?pid=jdh001,427,0,0
+1631775642603,461,Articles's list jdh001,200,OK,Thread Group 1-98,text,true,,224350,264,21,21,http://10.240.4.179/api/articles/?pid=jdh001,449,0,0
+1631775642440,639,Random article,200,OK,Thread Group 1-86,text,true,,41871,531,21,21,http://10.240.4.179/api/articles/JJszM3GwAYDs/,206,0,0
+1631775642440,206,Random article-0,301,Moved Permanently,Thread Group 1-86,text,true,,279,265,21,21,http://10.240.4.179/api/articles/JJszM3GwAYDs,206,0,0
+1631775642647,432,Random article-1,200,OK,Thread Group 1-86,text,true,,41592,266,21,21,http://10.240.4.179/api/articles/JJszM3GwAYDs/,429,0,0
+1631775642875,210,Raw github,200,OK,Thread Group 1-73,text,true,,9297333,335,21,21,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,4,0,0
+1631775642534,574,Issue jdh001,200,OK,Thread Group 1-96,text,true,,750,515,20,20,http://10.240.4.179/api/issues/jdh001/,375,0,0
+1631775642534,375,Issue jdh001-0,301,Moved Permanently,Thread Group 1-96,text,true,,271,257,20,20,http://10.240.4.179/api/issues/jdh001,375,0,0
+1631775642910,198,Issue jdh001-1,200,OK,Thread Group 1-96,text,true,,479,258,20,20,http://10.240.4.179/api/issues/jdh001/,198,0,0
+1631775642851,255,Articles's list jdh001,200,OK,Thread Group 1-95,text,true,,224350,264,20,20,http://10.240.4.179/api/articles/?pid=jdh001,247,0,0
+1631775642647,526,Articles's list jdh001,200,OK,Thread Group 1-85,text,true,,224350,264,20,20,http://10.240.4.179/api/articles/?pid=jdh001,511,0,0
+1631775642540,644,Random article,200,OK,Thread Group 1-87,text,true,,20524,531,20,20,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,312,0,0
+1631775642540,312,Random article-0,301,Moved Permanently,Thread Group 1-87,text,true,,279,265,20,20,http://10.240.4.179/api/articles/8pGzPyTDKBjR,312,0,0
+1631775642852,332,Random article-1,200,OK,Thread Group 1-87,text,true,,20245,266,20,20,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,331,0,0
+1631775642919,265,Raw github,200,OK,Thread Group 1-77,text,true,,14088282,319,20,20,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,2,0,0
+1631775642920,268,Articles's list jdh001,200,OK,Thread Group 1-92,text,true,,224350,264,19,19,http://10.240.4.179/api/articles/?pid=jdh001,261,0,0
+1631775642550,644,Issue jdh001,200,OK,Thread Group 1-100,text,true,,750,515,19,19,http://10.240.4.179/api/issues/jdh001/,379,0,0
+1631775642550,379,Issue jdh001-0,301,Moved Permanently,Thread Group 1-100,text,true,,271,257,19,19,http://10.240.4.179/api/issues/jdh001,379,0,0
+1631775642929,265,Issue jdh001-1,200,OK,Thread Group 1-100,text,true,,479,258,19,19,http://10.240.4.179/api/issues/jdh001/,265,0,0
+1631775642697,509,Random article,200,OK,Thread Group 1-94,text,true,,37019,531,19,19,http://10.240.4.179/api/articles/33pRxE2dtUHP/,322,0,0
+1631775642697,322,Random article-0,301,Moved Permanently,Thread Group 1-94,text,true,,279,265,19,19,http://10.240.4.179/api/articles/33pRxE2dtUHP,322,0,0
+1631775643020,186,Random article-1,200,OK,Thread Group 1-94,text,true,,36740,266,19,19,http://10.240.4.179/api/articles/33pRxE2dtUHP/,185,0,0
+1631775643080,133,Raw github,200,OK,Thread Group 1-86,text,true,,2038004,344,19,19,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,7,0,0
+1631775642837,391,Random article,200,OK,Thread Group 1-84,text,true,,41871,531,18,18,http://10.240.4.179/api/articles/JJszM3GwAYDs/,184,0,0
+1631775642837,184,Random article-0,301,Moved Permanently,Thread Group 1-84,text,true,,279,265,18,18,http://10.240.4.179/api/articles/JJszM3GwAYDs,184,0,0
+1631775643021,207,Random article-1,200,OK,Thread Group 1-84,text,true,,41592,266,18,18,http://10.240.4.179/api/articles/JJszM3GwAYDs/,205,0,0
+1631775642851,397,Random article,200,OK,Thread Group 1-82,text,true,,41871,531,18,18,http://10.240.4.179/api/articles/JJszM3GwAYDs/,170,0,0
+1631775642851,170,Random article-0,301,Moved Permanently,Thread Group 1-82,text,true,,279,265,18,18,http://10.240.4.179/api/articles/JJszM3GwAYDs,170,0,0
+1631775643021,227,Random article-1,200,OK,Thread Group 1-82,text,true,,41592,266,18,18,http://10.240.4.179/api/articles/JJszM3GwAYDs/,225,0,0
+1631775642750,519,Random article,200,OK,Thread Group 1-88,text,true,,19120,531,18,18,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,412,0,0
+1631775642750,412,Random article-0,301,Moved Permanently,Thread Group 1-88,text,true,,279,265,18,18,http://10.240.4.179/api/articles/SLCj9T3MsrEk,412,0,0
+1631775643162,107,Random article-1,200,OK,Thread Group 1-88,text,true,,18841,266,18,18,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,106,0,0
+1631775642557,735,Issue jdh001,200,OK,Thread Group 1-99,text,true,,750,515,18,18,http://10.240.4.179/api/issues/jdh001/,386,0,0
+1631775642557,386,Issue jdh001-0,301,Moved Permanently,Thread Group 1-99,text,true,,271,257,18,18,http://10.240.4.179/api/issues/jdh001,386,0,0
+1631775642944,348,Issue jdh001-1,200,OK,Thread Group 1-99,text,true,,479,258,18,18,http://10.240.4.179/api/issues/jdh001/,348,0,0
+1631775642929,363,Articles's list jdh001,200,OK,Thread Group 1-93,text,true,,224350,264,18,18,http://10.240.4.179/api/articles/?pid=jdh001,348,0,0
+1631775643228,68,Raw github,200,OK,Thread Group 1-84,text,true,,2038004,344,18,18,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,1,0,0
+1631775642924,372,Random article,200,OK,Thread Group 1-89,text,true,,37019,531,18,18,http://10.240.4.179/api/articles/33pRxE2dtUHP/,259,0,0
+1631775642924,259,Random article-0,301,Moved Permanently,Thread Group 1-89,text,true,,279,265,18,18,http://10.240.4.179/api/articles/33pRxE2dtUHP,259,0,0
+1631775643183,113,Random article-1,200,OK,Thread Group 1-89,text,true,,36740,266,18,18,http://10.240.4.179/api/articles/33pRxE2dtUHP/,111,0,0
+1631775643248,101,Raw github,200,OK,Thread Group 1-82,text,true,,2038004,344,17,17,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,2,0,0
+1631775643270,111,Raw github,200,OK,Thread Group 1-88,text,true,,1847661,331,16,16,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,1,0,0
+1631775642944,442,Articles's list jdh001,200,OK,Thread Group 1-91,text,true,,224350,264,15,15,http://10.240.4.179/api/articles/?pid=jdh001,428,0,0
+1631775643194,201,Articles's list jdh001,200,OK,Thread Group 1-100,text,true,,224350,264,15,15,http://10.240.4.179/api/articles/?pid=jdh001,187,0,0
+1631775643175,227,Random article,200,OK,Thread Group 1-85,text,true,,20524,531,15,15,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,93,0,0
+1631775643175,93,Random article-0,301,Moved Permanently,Thread Group 1-85,text,true,,279,265,15,15,http://10.240.4.179/api/articles/8pGzPyTDKBjR,93,0,0
+1631775643268,134,Random article-1,200,OK,Thread Group 1-85,text,true,,20245,266,15,15,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,134,0,0
+1631775643191,232,Random article,200,OK,Thread Group 1-92,text,true,,20524,531,15,15,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,105,0,0
+1631775643191,105,Random article-0,301,Moved Permanently,Thread Group 1-92,text,true,,279,265,15,15,http://10.240.4.179/api/articles/8pGzPyTDKBjR,105,0,0
+1631775643296,127,Random article-1,200,OK,Thread Group 1-92,text,true,,20245,266,15,15,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,127,0,0
+1631775643397,51,Random article,200,OK,Thread Group 1-100,text,true,,19120,531,15,15,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,26,0,0
+1631775643397,26,Random article-0,301,Moved Permanently,Thread Group 1-100,text,true,,279,265,15,15,http://10.240.4.179/api/articles/SLCj9T3MsrEk,26,0,0
+1631775643423,25,Random article-1,200,OK,Thread Group 1-100,text,true,,18841,266,15,15,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,25,0,0
+1631775643391,81,Random article,200,OK,Thread Group 1-91,text,true,,4331,531,15,15,http://10.240.4.179/api/articles/MyifnvNPDgUx/,32,0,0
+1631775643391,32,Random article-0,301,Moved Permanently,Thread Group 1-91,text,true,,279,265,15,15,http://10.240.4.179/api/articles/MyifnvNPDgUx,32,0,0
+1631775643423,49,Random article-1,200,OK,Thread Group 1-91,text,true,,4052,266,15,15,http://10.240.4.179/api/articles/MyifnvNPDgUx/,49,0,0
+1631775643108,365,Articles's list jdh001,200,OK,Thread Group 1-96,text,true,,224350,264,15,15,http://10.240.4.179/api/articles/?pid=jdh001,351,0,0
+1631775643473,9,Raw github,200,OK,Thread Group 1-91,text,true,,153631,356,15,15,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-MyifnvNPDgUx/main/taking-the-measure-of-social-democracy-anonymous.ipynb,1,0,0
+1631775642652,832,Random article,200,OK,Thread Group 1-78,text,true,,11947,531,14,14,http://10.240.4.179/api/articles/9HcfToh7EYm8/,508,0,0
+1631775642652,508,Random article-0,301,Moved Permanently,Thread Group 1-78,text,true,,279,265,14,14,http://10.240.4.179/api/articles/9HcfToh7EYm8,508,0,0
+1631775643160,324,Random article-1,200,OK,Thread Group 1-78,text,true,,11668,266,14,14,http://10.240.4.179/api/articles/9HcfToh7EYm8/,324,0,0
+1631775642777,732,Random article,200,OK,Thread Group 1-90,text,true,,30292,531,14,14,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,385,0,0
+1631775642777,385,Random article-0,301,Moved Permanently,Thread Group 1-90,text,true,,279,265,14,14,http://10.240.4.179/api/articles/4yxHGiqXYRbX,385,0,0
+1631775643162,347,Random article-1,200,OK,Thread Group 1-90,text,true,,30013,266,14,14,http://10.240.4.179/api/articles/4yxHGiqXYRbX/,345,0,0
+1631775643476,39,Random article,200,OK,Thread Group 1-96,text,true,,20524,531,14,14,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,4,0,0
+1631775643476,4,Random article-0,301,Moved Permanently,Thread Group 1-96,text,true,,279,265,14,14,http://10.240.4.179/api/articles/8pGzPyTDKBjR,4,0,0
+1631775643480,35,Random article-1,200,OK,Thread Group 1-96,text,true,,20245,266,14,14,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,35,0,0
+1631775643448,78,Raw github,200,OK,Thread Group 1-100,text,true,,1847661,331,14,14,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,3,0,0
+1631775643292,337,Articles's list jdh001,200,OK,Thread Group 1-99,text,true,,224350,264,13,13,http://10.240.4.179/api/articles/?pid=jdh001,313,0,0
+1631775643031,601,Random article,200,OK,Thread Group 1-97,text,true,,20524,531,13,13,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,344,0,0
+1631775643031,344,Random article-0,301,Moved Permanently,Thread Group 1-97,text,true,,279,265,13,13,http://10.240.4.179/api/articles/8pGzPyTDKBjR,344,0,0
+1631775643375,257,Random article-1,200,OK,Thread Group 1-97,text,true,,20245,266,13,13,http://10.240.4.179/api/articles/8pGzPyTDKBjR/,255,0,0
+1631775643207,427,Raw github,200,OK,Thread Group 1-94,text,true,,10203231,314,13,13,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,3,0,0
+1631775643066,593,Random article,200,OK,Thread Group 1-98,text,true,,11947,531,12,12,http://10.240.4.179/api/articles/9HcfToh7EYm8/,309,0,0
+1631775643066,309,Random article-0,301,Moved Permanently,Thread Group 1-98,text,true,,279,265,12,12,http://10.240.4.179/api/articles/9HcfToh7EYm8,309,0,0
+1631775643375,284,Random article-1,200,OK,Thread Group 1-98,text,true,,11668,266,12,12,http://10.240.4.179/api/articles/9HcfToh7EYm8/,284,0,0
+1631775643632,35,Random article,200,OK,Thread Group 1-99,text,true,,4331,531,12,12,http://10.240.4.179/api/articles/MyifnvNPDgUx/,3,0,0
+1631775643632,3,Random article-0,301,Moved Permanently,Thread Group 1-99,text,true,,279,265,12,12,http://10.240.4.179/api/articles/MyifnvNPDgUx,3,0,0
+1631775643635,32,Random article-1,200,OK,Thread Group 1-99,text,true,,4052,266,12,12,http://10.240.4.179/api/articles/MyifnvNPDgUx/,32,0,0
+1631775643668,14,Raw github,200,OK,Thread Group 1-99,text,true,,153631,356,12,12,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-MyifnvNPDgUx/main/taking-the-measure-of-social-democracy-anonymous.ipynb,1,0,0
+1631775643109,583,Random article,200,OK,Thread Group 1-95,text,true,,41871,531,11,11,http://10.240.4.179/api/articles/JJszM3GwAYDs/,351,0,0
+1631775643109,351,Random article-0,301,Moved Permanently,Thread Group 1-95,text,true,,279,265,11,11,http://10.240.4.179/api/articles/JJszM3GwAYDs,351,0,0
+1631775643460,232,Random article-1,200,OK,Thread Group 1-95,text,true,,41592,266,11,11,http://10.240.4.179/api/articles/JJszM3GwAYDs/,228,0,0
+1631775643295,424,Random article,200,OK,Thread Group 1-93,text,true,,19120,531,11,11,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,313,0,0
+1631775643295,313,Random article-0,301,Moved Permanently,Thread Group 1-93,text,true,,279,265,11,11,http://10.240.4.179/api/articles/SLCj9T3MsrEk,313,0,0
+1631775643608,111,Random article-1,200,OK,Thread Group 1-93,text,true,,18841,266,11,11,http://10.240.4.179/api/articles/SLCj9T3MsrEk/,105,0,0
+1631775643485,269,Raw github,200,OK,Thread Group 1-78,text,true,,3270289,325,11,11,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-9HcfToh7EYm8/main/dialectsofdiscord.ipynb,1,0,0
+1631775643693,140,Raw github,200,OK,Thread Group 1-95,text,true,,2038004,344,10,10,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-JJszM3GwAYDs/main/namelesscrowd/The-Nameless-Crowds_V4.ipynb,2,0,0
+1631775643297,597,Raw github,200,OK,Thread Group 1-89,text,true,,10203231,314,9,9,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-33pRxE2dtUHP/main/kinora.ipynb,4,0,0
+1631775643719,183,Raw github,200,OK,Thread Group 1-93,text,true,,1847661,331,8,8,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-SLCj9T3MsrEk/main/jdh_twitter5_anonymised.ipynb,2,0,0
+1631775643184,733,Raw github,200,OK,Thread Group 1-87,text,true,,14088282,319,7,7,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,1,0,0
+1631775643659,266,Raw github,200,OK,Thread Group 1-98,text,true,,3270289,325,6,6,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-9HcfToh7EYm8/main/dialectsofdiscord.ipynb,2,0,0
+1631775643510,589,Raw github,200,OK,Thread Group 1-90,text,true,,9297333,335,5,5,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-4yxHGiqXYRbX/main/TopicSpecificCorpusBuilding.ipynb,2,0,0
+1631775643424,755,Raw github,200,OK,Thread Group 1-92,text,true,,14088282,319,4,4,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,2,0,0
+1631775643402,777,Raw github,200,OK,Thread Group 1-85,text,true,,14088282,319,4,4,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,2,0,0
+1631775643515,705,Raw github,200,OK,Thread Group 1-96,text,true,,14088282,319,2,2,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,3,0,0
+1631775643633,628,Raw github,200,OK,Thread Group 1-97,text,true,,14088282,319,1,1,http://10.240.4.179/proxy-githubusercontent/jdh-observer/jdh001-8pGzPyTDKBjR/main/JDH_Article.ipynb,2,0,0
